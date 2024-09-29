@@ -1,0 +1,43 @@
+version: '3'
+services:
+  postgres:
+    image: postgres:latest
+    container_name: postgres_c
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: utec
+      POSTGRES_DB: clientes_db
+    volumes:
+      - postgres-data:/var/lib/postgresql/data
+    ports:
+      - "8000:5432"
+
+  mysql:
+    image: mysql:latest
+    container_name: mysql_c
+    environment:
+      MYSQL_ROOT_PASSWORD: utec
+      MYSQL_DATABASE: movimientos_db
+    volumes:
+      - mysql-data:/var/lib/mysql
+    ports:
+      - "8001:3306"
+
+  mongo:
+    image: mongo:latest
+    container_name: mongo_c
+    volumes:
+      - mongo-data:/data/db
+    ports:
+      - "8002:27017"
+
+  adminer:
+    image: adminer
+    container_name: adminer_c
+    ports:
+      - "8080:8080"
+
+volumes:
+  postgres-data:
+  mysql-data:
+  mongo-data:
