@@ -1,3 +1,5 @@
+--reemplazar /ruta/ por la ruta hasta el csv
+
 LOAD DATA INFILE '/ruta/movimientos.csv'
 INTO TABLE movimientos
 FIELDS TERMINATED BY ','

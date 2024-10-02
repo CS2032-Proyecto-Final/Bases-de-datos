@@ -1,0 +1,2001 @@
+id,nombre
+0,Dr. Nancy Gollum
+1,Socorro Muñiz Negrete
+2,Ilse Marcos Baeza
+3,Jorge Graciela Hinojosa Granado
+4,Arturo Rolando Villegas
+5,Juan Barrera
+6,Patricio Leonor Herrera Zavala
+7,Hernán Mejía
+8,Miguel Anel Zarate Vallejo
+9,Carlos Lozano Olivárez
+10,Concepción Escamilla Cano
+11,Jerónimo Prieto
+12,María Eugenia Espino Treviño
+13,Bernardo Salgado Lira
+14,Julio Alarcón
+15,Aurelio Gabriela Delgado Muñiz
+16,César Alemán Castillo
+17,David Aragón
+18,Omar Iván Garica
+19,Wilfrido Eugenia Pelayo
+20,Anabel Guillen
+21,Mtro. Mario Carrión
+22,Araceli Jorge Luis Mondragón Griego
+23,Miriam Wilfrido Velasco
+24,María Eugenia Reina Maldonado Serrato
+25,Ing. Yuridia Santiago
+26,Mtro. Dolores Guzmán
+27,Sr(a). José Eduardo Patiño
+28,Sr(a). Emilio Guajardo
+29,Nicolás Anguiano
+30,Esther Ybarra Roque
+31,Luz Perla Saldaña
+32,Mtro. Wilfrido Badillo
+33,Cristina Abigail Loera Sánchez
+34,Gabino Nadia Monroy
+35,Carlos Débora Carrero Garza
+36,Tomás Ivonne Toledo Puente
+37,Nancy Ramón
+38,José Emilio Alcaraz de la Fuente
+39,Ing. Minerva Reséndez
+40,Dr. Mario Cadena
+41,Ing. Nelly Magaña
+42,Pedro José María Cortez Salinas
+43,Karina Benavídez Caldera
+44,Marisela Garay Concepción
+45,Elias Sánchez
+46,Benjamín Osorio Madera
+47,Adela Longoria
+48,Silvano David Razo
+49,Ing. Fernando Sisneros
+50,Nayeli Flores
+51,Ángela Rodrigo Muñiz de León
+52,Graciela Echeverría Castillo
+53,Lic. Nancy Alvarado
+54,María José Ivonne Rojas Campos
+55,Augusto Adriana Benavides Bañuelos
+56,Paola Estévez Merino
+57,Aldo Alonso
+58,Sergio Enríquez Oquendo
+59,Mtro. Dulce María Alonso
+60,Homero Almonte Muñoz
+61,Sergio Hernán Rincón Botello
+62,Lic. Reina Marín
+63,José José Luis Carranza
+64,Dulce María Barajas
+65,Abril Alejandro
+66,Mtro. Marisol Irizarry
+67,Indira Tomás Pineda
+68,Ramiro Alfonso Hernádez
+69,Francisco Javier Mariana Robles Valladares
+70,Alberto Verdugo Nazario
+71,Jesús Amador del Valle
+72,Ing. Omar Guardado
+73,Lic. Pedro García
+74,Nancy Verduzco
+75,Estela Arellano Gollum
+76,Sonia Gonzales Orosco
+77,René Victoria Saldivar Montaño
+78,Marisol Baeza
+79,Rosalia Maya Llamas
+80,Laura Meléndez
+81,Estela Reynoso
+82,Zacarías Esmeralda Cortés
+83,Wilfrido Cepeda Gallegos
+84,Oswaldo Arias
+85,Eugenia Acevedo Villalpando
+86,Barbara Esther Lozano Altamirano
+87,Andrés Humberto Correa
+88,Abraham Colunga Barrios
+89,Ivonne Pedro Salas
+90,Rodrigo Esteban Cantú Rivero
+91,Mtro. Marisela Verdugo
+92,Frida Peña Carranza
+93,Ing. Elena Valle
+94,Gregorio Cavazos Espinosa
+95,Jonás Duarte Leiva
+96,Lic. Berta Amador
+97,Genaro Ríos Abrego
+98,José María Teresa Flores
+99,Sr(a). Sara Lucero
+100,Dr. Mauricio Acevedo
+101,Abril Modesto Ramón Ortiz
+102,Miguel Ángel Santillán Véliz
+103,Zeferino Orosco Durán
+104,Ignacio Zayas Gonzales
+105,María Luisa Esparza Paredes
+106,Ofelia Fidel Marín
+107,Santiago Raya Marín
+108,Ing. Mayte Rivera
+109,Porfirio Pamela Benavides
+110,Alicia Ochoa Caraballo
+111,Barbara Conchita Cortés
+112,Adalberto Cuellar Olmos
+113,Antonio Julia Arias
+114,Angélica José Eduardo Laureano
+115,María Elena Nieves Bustos
+116,Esparta Jiménez
+117,Olga Jonás Velázquez Sandoval
+118,Socorro Marisol Zambrano Laboy
+119,Susana Mónica Camarillo Gallegos
+120,María del Carmen Caridad Covarrubias Lovato
+121,Karina Santiago Regalado
+122,Rodrigo Cavazos
+123,Beatriz Olivia Piña Salcedo
+124,Perla Palacios Palomo
+125,Ing. Natalia Barrientos
+126,Tomás Uriel Narváez
+127,Mtro. Verónica Cintrón
+128,Timoteo Medrano Aguilera
+129,Emiliano Zepeda
+130,Amelia Iván Blanco de la Rosa
+131,Óliver Vallejo Fierro
+132,Yuridia Berta Benítez
+133,Arcelia Soria
+134,Beatriz Daniela Menchaca
+135,Maximiliano Chávez Varela
+136,Rocío Jonás Gaitán Mata
+137,Lic. Nadia León
+138,Pablo José Eduardo Olvera Concepción
+139,Verónica Marcos Laureano Valentín
+140,Eloisa Zeferino Uribe Griego
+141,Cristobal Baeza
+142,Ignacio Rodrigo Nieves
+143,Juana Valladares Carmona
+144,Alta  Gracia Pedro Naranjo
+145,Ing. Natalia Cintrón
+146,Gloria Casas Gamez
+147,Mtro. Marcela Enríquez
+148,Gustavo Lourdes Zaragoza Sosa
+149,Darío Galván Velasco
+150,Anel Reynaldo Tapia
+151,Manuel Lebrón
+152,Laura Cervantes Valladares
+153,Jacinto Baeza
+154,Soledad Raúl Curiel
+155,Abel Roberto Espinosa Carrillo
+156,María del Carmen Asunción Cardona
+157,Leticia Menéndez Pacheco
+158,Fidel Arcelia Carrión Alarcón
+159,Barbara Casas
+160,Trinidad Fabiola Torres
+161,Sr(a). Fernando Garrido
+162,Lic. Amanda Patiño
+163,Adalberto Alonso
+164,Martha Briseño Sanabria
+165,Mtro. Felipe Pizarro
+166,Timoteo Yuridia Corral Gaytán
+167,Karla Silvano Villa
+168,Pablo Valenzuela Nájera
+169,Andrea Sanabria Maestas
+170,Armando Alejandro
+171,Virginia Henríquez Batista
+172,Andrés Sofía Ortega
+173,Isaac Castellanos
+174,Susana Bernardo Mojica
+175,Celia Trujillo
+176,Óscar Gaytán
+177,Elsa Apodaca
+178,Nelly Luis Manuel Casares
+179,José Manuél Homero Irizarry
+180,Sr(a). Marcela Gil
+181,Indira Cabán Cintrón
+182,Inés Gerardo Valencia
+183,Sergio Pilar Chávez Ceballos
+184,Porfirio Villagómez Robledo
+185,Ana Garay Montenegro
+186,Sr(a). Cristobal Casárez
+187,Sr(a). Jesús Merino
+188,Anabel Carla Galarza Rolón
+189,Silvia de la Torre Peres
+190,Carlota Vigil
+191,Zacarías Arturo Madera
+192,Hernán María José Bermúdez Arreola
+193,Amanda Alfonso Corrales
+194,Sandra Rincón Quiñones
+195,Ing. Benjamín Lara
+196,Benito Gilberto de la Crúz
+197,Abril Alvaro Arguello
+198,Lic. Porfirio Esquivel
+199,Ing. Sergio Maya
+200,Octavio Benito Villaseñor
+201,Inés René Mercado Niño
+202,Dr. Hermelinda Soliz
+203,Israel Altamirano
+204,Emilio Salcido Salazar
+205,Juan Carlos Eloy de León Cano
+206,Minerva Arcelia Ortega Lemus
+207,Irma Galván
+208,Mtro. Uriel Jaime
+209,Dr. Teodoro Cortés
+210,Javier Sosa Razo
+211,Cristal Méndez
+212,Roberto Úrsula Alfaro
+213,Dr. Gerardo Lomeli
+214,Yolanda Contreras Nevárez
+215,Ángel Susana Orozco
+216,Rocío Cano Sisneros
+217,Abel Isabel Anaya
+218,Pascual Francisca Valdés Caballero
+219,Ing. Darío Salas
+220,Lic. Soledad López
+221,Ing. Luz Bañuelos
+222,Marco Antonio Calvillo Méndez
+223,Amanda Ortega Arriaga
+224,Sr(a). Leonor Villaseñor
+225,Luis Leonel Rascón Batista
+226,Lic. Eloy Ulloa
+227,Héctor Barbara Ramírez Morales
+228,Sr(a). Uriel Escalante
+229,Mtro. Violeta Barreto
+230,Nicolás Escalante
+231,Linda Marcos Toro Grijalva
+232,Mariana Rodríquez
+233,Dr. Guadalupe Olivera
+234,José Eduardo Juan Grijalva
+235,Sr(a). Alta  Gracia Meza
+236,Lic. Carmen Nieves
+237,Cristian Úrsula Gastélum Noriega
+238,Ofelia Chávez Tirado
+239,Espartaco Cavazos
+240,Norma Ángela Coronado
+241,Violeta Miriam Lozada Aparicio
+242,Sr(a). Mariana Alejandro
+243,Leonardo Vicente Saavedra
+244,Iván de León del Valle
+245,Sofía Barrientos
+246,Karina María Teresa Arreola
+247,Ana Aguayo
+248,Sr(a). Inés Fajardo
+249,Eugenia Micaela Laboy Becerra
+250,Lic. Ángel Montenegro
+251,Julia Rivera
+252,Ernesto Rolando Rodrígez Chávez
+253,Pamela Ramos Nájera
+254,María Eugenia Alejandro Ibarra
+255,Eloisa Esperanza Cisneros
+256,Elvia Gallardo
+257,Emiliano José Emilio de la Fuente
+258,Sr(a). Maximiliano Ramos
+259,Cristobal Itzel Anguiano Guillen
+260,Enrique Gollum Juárez
+261,Marcos Cazares Salgado
+262,Timoteo Mercedes Montalvo Pichardo
+263,Jerónimo Solís
+264,Esparta Ozuna Juárez
+265,Martín Alejandro
+266,Mtro. Natividad Sanches
+267,Ing. Leticia Rodarte
+268,Sr(a). Camila Laboy
+269,Ing. Natalia Armas
+270,Manuel Maldonado
+271,Arcelia César Valverde
+272,Barbara Mesa
+273,Dr. Antonia Balderas
+274,Dr. Paulina Tejeda
+275,María Teresa Leal Olivares
+276,Francisco Gloria Lozada Lara
+277,Gustavo Wilfrido Arteaga
+278,Bernardo Homero Espinal
+279,Sr(a). Rebeca Madrid
+280,Verónica Esmeralda Alvarez de la Crúz
+281,Aurora Aragón Zapata
+282,Flavio Espino
+283,Felipe Rosario Pelayo
+284,Francisca Rocío Perea
+285,Salma Laura Lucero Cornejo
+286,Ana Juana Zaragoza Serna
+287,Santiago Guillermo Sierra
+288,Alicia Uriel Elizondo Velasco
+289,Ramiro Escamilla
+290,Lic. Flavio Esquibel
+291,Ing. Estela Valentín
+292,Elvia Abelardo Santana
+293,Marco Antonio Rendón
+294,Dr. Aurora Abreu
+295,Judith Abigail de la O Cano
+296,Dolores Becerra Soliz
+297,Débora Arteaga Menchaca
+298,Miriam Tapia
+299,Sr(a). Helena Huerta
+300,Noelia Bravo
+301,Rolando Mireles
+302,Virginia Lozano Arroyo
+303,Jos Amaya Jaimes
+304,Mariano Amador Quintanilla
+305,Leonor Aponte Hernandes
+306,Roberto Ilse Matos Cervántez
+307,Reynaldo Quintanilla Sarabia
+308,Sr(a). Elisa Piña
+309,Julia María Eugenia Saiz
+310,Isabel Fierro Moya
+311,María Luisa Valladares
+312,Augusto Carla Alcaraz
+313,Fidel Rael Méndez
+314,Susana Galván
+315,Héctor José Carlos Espinoza
+316,Evelio Medrano Carranza
+317,Eduardo Esparza
+318,Natalia Ángela Cabán
+319,Mayte Georgina Echeverría
+320,Celia Chacón
+321,Zeferino Hugo Palomo Arce
+322,Sara Claudia Miramontes Roldán
+323,Ofelia Patiño Zambrano
+324,Dr. Tomás Lomeli
+325,Mtro. Débora Soto
+326,Lic. Carmen Trujillo
+327,Lic. Gregorio Ruelas
+328,Jesús Sisneros
+329,Rosario Noriega
+330,Pamela Gerónimo Nevárez
+331,Rosa María Elena Rivas
+332,Mtro. Dalia Paredes
+333,Elisa Mejía
+334,Nayeli Llamas
+335,Noelia Escalante Espinosa
+336,Guadalupe Andrés Quiroz Chapa
+337,Claudia Longoria
+338,Elsa Horacio Pelayo Acuña
+339,Ing. José Eduardo Cornejo
+340,Rebeca Soliz
+341,Eugenia Miguel Gutiérrez
+342,Indira Andrés Castillo
+343,Martín Pizarro Escamilla
+344,Pablo Barraza Gonzales
+345,Esteban Beltrán Pedraza
+346,Olivia Ávalos Estrada
+347,Sr(a). Carla Almanza
+348,Aldonza López
+349,Conchita Orosco
+350,Porfirio Daniel Ferrer
+351,Mtro. Antonio Venegas
+352,Luz Marcela Elizondo Bonilla
+353,Berta Asunción Puga Saldivar
+354,Israel Aida Delgado
+355,Marco Antonio Rincón Curiel
+356,Dr. Adela Mondragón
+357,Jorge Luis María Teresa Lugo Henríquez
+358,Mario Tapia Aguilar
+359,Lic. Yuridia Armendáriz
+360,María Rosas Espinoza
+361,Úrsula Anabel Aranda
+362,Mariana Claudio Pedroza Maestas
+363,Ing. Adela Robledo
+364,Alicia Isabela Peña Quiñones
+365,Julio César Urías Rubio
+366,Jaime Abigail Paz
+367,Estela José María Vélez
+368,Samuel Gonzalo Godoy Cazares
+369,Jacinto Leonor Caldera Holguín
+370,Mauro Sandra Ulloa
+371,Mauricio Timoteo Vega Angulo
+372,Dr. Bernabé Ramos
+373,Patricia Rivera Valdivia
+374,Esteban Federico Arriaga Tapia
+375,Soledad Perla Corral
+376,José Manuél Téllez Menéndez
+377,Martha Horacio Saucedo Osorio
+378,Mtro. Lorenzo Ochoa
+379,Luz Orellana
+380,Mtro. Oswaldo Nazario
+381,Micaela Paulina Saiz Zamora
+382,Alicia Francisco Javier González Aguayo
+383,Abraham Griego
+384,Óliver Aurora Balderas
+385,Sr(a). Perla Cordero
+386,Nadia Espinal
+387,Zeferino Arce Sáenz
+388,Evelio Javier Ornelas
+389,Irma Cortez
+390,Micaela Fajardo Valdés
+391,Horacio Sisneros
+392,Emilio Delgado
+393,Barbara Aldo Bustamante
+394,Tomás Olivo Calderón
+395,Abigail Dueñas Piña
+396,María Teresa Patricia Grijalva
+397,Dr. Porfirio Lomeli
+398,Humberto Rosario Porras Estévez
+399,Cornelio Aguirre Ocasio
+400,Sr(a). Guillermina Medrano
+401,Bruno Vanesa Alarcón Alonso
+402,Karina Gabriela Loya Baeza
+403,Ilse Estefanía Perales de la Torre
+404,Lic. Leonor Díaz
+405,Mtro. Ignacio Guerra
+406,Ruby Valles Concepción
+407,María del Carmen Eugenia Santiago
+408,Mtro. Miguel Ángel Sarabia
+409,Emilia Víctor de la Rosa Bahena
+410,Gustavo Olivia Jasso Godoy
+411,Sr(a). Lorena Valverde
+412,Esmeralda Patricio Lerma Montaño
+413,Rodolfo Paola Alcala Figueroa
+414,Cristobal Sessa Concepción Abrego
+415,Esparta Uriel Esquivel Vallejo
+416,Olivia Socorro Granados
+417,Alonso Villaseñor
+418,Citlali Osorio
+419,Abigail Carrillo
+420,Ignacio Rodrigo Berríos
+421,Soledad Rosa Gurule
+422,Gustavo Reyna
+423,Mónica Iglesias
+424,Amalia Trinidad Brito
+425,Porfirio Asunción de la Torre
+426,Leonel Cynthia Gallegos
+427,Inés Rentería Corral
+428,Homero Timoteo Olivo
+429,Leonel Samaniego Solano
+430,Ing. Micaela Grijalva
+431,Ariadna Celia Tijerina
+432,Laura Rosales Alemán
+433,Paola Mireles
+434,Ana Luisa Gonzalo Laureano
+435,Karla Alvaro Hernádez Rincón
+436,Cristobal Salma Alemán
+437,Fidel Esteban Rendón Reyna
+438,Sofía Serafín Nevárez Roybal
+439,Jerónimo Cortés
+440,Marisol José María Cardona Almonte
+441,Isaac Miguel Ángel Reyna Santillán
+442,María Cristina Abelardo Zelaya Torres
+443,Armando Estévez Alvarez
+444,Mercedes Sánchez
+445,Sr(a). Felix Meraz
+446,Noemí Camilo Becerra Figueroa
+447,Georgina Aguayo Benavídez
+448,Dr. Leonor Suárez
+449,Juana Eric Bustos
+450,Óscar Elsa Trujillo Tirado
+451,Sr(a). Rosalia Tirado
+452,Dulce María Figueroa Barragán
+453,René Bravo Partida
+454,Eva Toledo Saucedo
+455,Anel Yáñez Mascareñas
+456,Sr(a). Humberto Gómez
+457,Flavio Benavídez Sánchez
+458,Homero Quiñónez Villarreal
+459,Natalia Enríquez Mejía
+460,Esperanza Lourdes Alcaraz Galván
+461,Aldonza Alonso
+462,Rodrigo Marisol Zavala
+463,Victoria Cortez Flórez
+464,Emilio Acosta
+465,Ramiro Alberto Mendoza
+466,Alfredo Aponte
+467,Sr(a). Rebeca Otero
+468,Sr(a). Ana Quintero
+469,Sr(a). Mario Núñez
+470,Adalberto Olvera Blanco
+471,Socorro Bahena
+472,Lic. Francisco Frías
+473,Indira Irma Valles Zambrano
+474,Flavio Emiliano Rodríguez
+475,Estela Gloria Rocha
+476,Eloisa Núñez Aragón
+477,Lic. José Manuél Gaytán
+478,Humberto Aragón Rael
+479,Alfonso Abigail Madera
+480,Estela Abreu Puga
+481,Lic. Eloisa Cervantes
+482,Lic. José Luis Roybal
+483,Delia Rolando Berríos Grijalva
+484,Rufino Itzel Corral
+485,Emiliano Flavio Burgos
+486,Mauro Felix Rojo Delgadillo
+487,Eloisa Eloy Villareal
+488,Ángela Olga Fuentes Valentín
+489,Ángel Arce
+490,Armando Hermelinda Samaniego Arreola
+491,Yuridia Aldonza Tovar Mayorga
+492,Abril Valverde
+493,Mario Cuellar
+494,Claudia Ramón Cardenas Aguirre
+495,Mtro. Agustín Valdez
+496,Sr(a). Roberto Granado
+497,Octavio Emilio Arroyo Arenas
+498,Germán Pascual Briseño
+499,Sr(a). Alma Arredondo
+500,Gerónimo Paredes
+501,Marisol Lucía Villalobos
+502,Socorro Mateo Mata
+503,Jorge Luis Gabriel Salazar Pizarro
+504,Mario Benjamín Rocha
+505,Yeni Mario Bétancourt
+506,Dr. Ana León
+507,José María Reina Aguirre
+508,Sr(a). Mateo Rendón
+509,Alberto Abigail Palacios Batista
+510,Aida Sonia Esparza
+511,Mtro. José Gurule
+512,Maximiliano Carmen Sotelo
+513,Marco Antonio Partida
+514,Antonia Farías Sáenz
+515,Antonio Andrea Madera
+516,Marisol Alfaro
+517,Isabela Georgina Gracia
+518,Mtro. Guadalupe Estévez
+519,Blanca Alfonso Ponce Valadez
+520,Asunción Esteban Bahena de la Fuente
+521,Cecilia Francisca Peralta Barajas
+522,Fidel Augusto Cervantes
+523,Gerardo Camilo Garibay
+524,Adriana Abelardo Cuellar
+525,Amelia Eloy Loera Gaona
+526,Jaime Anabel Esquibel
+527,Mtro. Esther Holguín
+528,Bianca Bustamante
+529,Serafín Bernal
+530,Mtro. Indira Meléndez
+531,Genaro Valle Caldera
+532,Sergio Collazo
+533,Juan Suárez
+534,Lic. Diego Figueroa
+535,Armando Gabino Muñiz Olivo
+536,Alejandra Corral
+537,Rodrigo Carvajal Cisneros
+538,Daniela Merino Vera
+539,Dolores Wilfrido Zaragoza
+540,Gustavo Esparta Mireles Serrano
+541,Wilfrido Girón Granados
+542,Rubén Hilda Bahena
+543,Mónica Fabiola Quintero
+544,Enrique Oswaldo Macías
+545,Abraham Fajardo Blanco
+546,Alicia Mauro Vanegas Zedillo
+547,Aurora Cavazos Candelaria
+548,Ing. Hilda Mercado
+549,Enrique Bianca Aguayo
+550,Renato Guevara Segovia
+551,Adalberto Evelio Montañez
+552,Marco Antonio Catalina Roldán Casillas
+553,Bianca Jorge Guillen
+554,Alejandro Norma Lucero Caldera
+555,Paulina Teresa Alejandro Ceballos
+556,Esther Adalberto Rivas
+557,Roberto Raúl Roldán Palomo
+558,Ing. Juana Irizarry
+559,Ángela Miguel Ureña
+560,Mtro. Conchita Polanco
+561,Camila Alonzo Adame
+562,Estela Magaña Rael
+563,Pablo Domínguez Alarcón
+564,Elvira Eduardo Vanegas Cordero
+565,Ing. Jacinto Ureña
+566,Eduardo Mayte Olivárez
+567,Concepción Manuel Rael
+568,Lic. Carlos Montalvo
+569,Horacio Mireles Fierro
+570,Alfredo Salcedo
+571,María Teresa Vázquez
+572,César Adela Delgadillo Gaitán
+573,Abigail Rosalia Zambrano
+574,Ramón Arturo Molina Hurtado
+575,Alfonso Vigil Ayala
+576,Sr(a). Indira Mares
+577,Homero Montero
+578,Adán Oquendo
+579,María del Carmen Moreno Cotto
+580,Lic. Guadalupe Lucero
+581,Ramón Mariana Mejía
+582,Paulina Arias Verdugo
+583,Dr. Victoria Romo
+584,Natalia Cruz Barreto
+585,Sr(a). Genaro Véliz
+586,Natalia Montero Muro
+587,Elsa María Elena Almanza Nájera
+588,María Cristina Héctor Acosta
+589,Juan Agustín Jaime
+590,Luis Miguel Díaz
+591,Adán Téllez
+592,Mauro Castañeda
+593,Mtro. Margarita Raya
+594,Isaac Ramón Vargas
+595,Olivia Genaro Apodaca
+596,Susana Karla Camacho
+597,Mariano María Luisa Hidalgo Pulido
+598,Lic. Guillermina Hinojosa
+599,Dulce Maldonado
+600,Horacio Garibay
+601,Alejandro Norma Villanueva Rael
+602,Ilse Limón Flores
+603,Porfirio Barbara Ulloa Vaca
+604,Emiliano Gabriel Barrientos Nájera
+605,Ing. Luis Miguel Peña
+606,Martín Arriaga
+607,Federico Jacinto de León Nazario
+608,Lic. Tomás Leiva
+609,Enrique Monroy Maya
+610,Silvia Quesada Sevilla
+611,Ing. Magdalena Muñiz
+612,Enrique Griego Gómez
+613,Asunción Dalia Saavedra Delgadillo
+614,Araceli Duarte
+615,Camilo Rico
+616,Omar Cazares
+617,José Manuél Liliana Pineda Palomo
+618,Dr. Mónica Rodarte
+619,Dr. Juan Carlos Alcaraz
+620,Claudio Patricio Cervantes Figueroa
+621,Samuel Linares Soto
+622,Zacarías Concepción Jaime Tamez
+623,Olga Pineda Ulloa
+624,Dr. Margarita Contreras
+625,Mtro. Mariano Bustamante
+626,Alejandro Arturo Briones
+627,Fernando Arturo Puga
+628,Ing. Araceli Macías
+629,Daniela Héctor de la Rosa
+630,Catalina de Jesús Tafoya
+631,Catalina Daniel Espinal Gálvez
+632,Gerardo Olga Barela Serrato
+633,Ivonne Alcántar Ponce
+634,Jos Rico Lebrón
+635,Carolina Lorenzo Salazar Brito
+636,Jaqueline Corral Coronado
+637,Vicente Cecilia Badillo Aguayo
+638,Rosario Dalia de la Garza
+639,Salma Estela Armendáriz Becerra
+640,Lic. Lourdes de Anda
+641,Nancy Nayeli Santacruz
+642,Reina Evelio Carmona
+643,Gonzalo Bruno Alcala Guerra
+644,David Rosado Trujillo
+645,Mariano Muñoz Guerra
+646,Elena Zayas Roque
+647,Claudia Fabiola Campos
+648,Lic. Silvano Carmona
+649,Alfredo Berríos
+650,María Cristina Luis Miguel Galván Mateo
+651,Yuridia Barela Venegas
+652,Pedro Armando Feliciano
+653,Hilda Salas
+654,Ing. Serafín Iglesias
+655,Nayeli Augusto Alcántar
+656,Iván Meléndez Valencia
+657,Conchita Rebeca Arreola Mora
+658,Mtro. Pascual Caballero
+659,Iván Mondragón
+660,Gloria Yolanda Madrigal Espinosa
+661,Marisela Zayas Tello
+662,Tomás Leonardo Guevara Ávalos
+663,Alma Jorge Caldera
+664,Sr(a). Lucas Gómez
+665,César Bernabé Fonseca
+666,Benjamín Elvira Montero Preciado
+667,Estefanía Solano
+668,Georgina Mejía
+669,Ana Luisa Jaime Padilla
+670,Dr. Natividad Barragán
+671,Héctor Jonás Toledo
+672,Cristobal Isabela Chávez Reyna
+673,Lic. Gregorio Campos
+674,Benito Olmos
+675,Gerónimo María Teresa Carranza
+676,Citlali Saavedra Ballesteros
+677,Ruby Liliana Dueñas Arreola
+678,Dr. Antonia Valladares
+679,Ana Aldo Sánchez
+680,Reynaldo Cristian Fuentes Carrión
+681,Jesús Rentería Zayas
+682,Lorena Cristobal Loya
+683,Mtro. Pilar Garibay
+684,Alma Alcántar
+685,Julio César Merino
+686,Jorge Abel Nieves
+687,Dr. Pablo Ríos
+688,Laura Julio Castro
+689,Julio Arevalo Serna
+690,Diego Bermúdez Velázquez
+691,Yeni Valadez Urrutia
+692,Amanda Villarreal
+693,Aurelio Cornejo
+694,Rodolfo Rivas
+695,Elvira Jaqueline Venegas Montalvo
+696,Salvador Débora Guajardo Amaya
+697,Diego Uriel Naranjo Arenas
+698,Sofía Espino
+699,Zacarías Cazares
+700,Nadia Dolores Cuellar
+701,David Karla Quintanilla
+702,Julio César Ruby Alcaraz Hidalgo
+703,Jorge Luis Acevedo
+704,Lic. Úrsula Núñez
+705,Dr. Esteban Valencia
+706,Ana María Gómez
+707,Mariano Guajardo
+708,Beatriz Citlali Burgos
+709,Pamela Elsa Chávez Caraballo
+710,Roberto Abelardo Ríos Marroquín
+711,Daniel Amador Uribe Dueñas
+712,Marcos Rufino Godoy
+713,Sr(a). Caridad Godoy
+714,Gerónimo Miguel Arriaga Roque
+715,Alejandro de la Rosa Barragán
+716,José María Adriana Limón
+717,Mtro. Elvia de Jesús
+718,Andrea Martha Ontiveros Rivas
+719,Elvira Ontiveros
+720,José Eduardo Eduardo Delgadillo Guillen
+721,Nadia Quintana Arce
+722,Ing. Débora Dueñas
+723,Alta  Gracia Luisa Carreón
+724,Sr(a). Uriel Angulo
+725,Federico Gollum Arteaga
+726,Socorro José Manuél Arellano Galván
+727,Fidel Federico Durán
+728,Hilda Espinoza Lucero
+729,Fabiola Meraz Arias
+730,Luis Raya
+731,Nicolás Fernando Cornejo
+732,Ing. Alfredo Echeverría
+733,Jerónimo Elvira Olmos
+734,Rosa Abreu
+735,Andrés Sánchez
+736,Nadia Antonio Granados Abrego
+737,Karla Felix Solorio
+738,Dr. Sandra Magaña
+739,Leonor Natalia Córdova
+740,Adalberto Cornelio Razo
+741,Inés Wilfrido Reyna Santillán
+742,Sr(a). Fabiola Montalvo
+743,Hilda Trinidad Torres Guillen
+744,Daniela Nelly Orosco Montes
+745,Ing. Elena Gil
+746,Patricio Echeverría de León
+747,Alberto Jorge Luis Vela Frías
+748,Sr(a). Mitzy Bernal
+749,Gonzalo Emilia Acevedo
+750,Sr(a). Karla Amador
+751,Gregorio Ortega
+752,Natalia Cecilia Rivas
+753,Esmeralda Ocasio
+754,Carlota Esperanza Franco
+755,Reina María Cuellar
+756,Cristobal Benavídez
+757,Graciela Wendolin Magaña
+758,Cristian Araceli Valverde Ceballos
+759,Espartaco Zoé Moya Olmos
+760,Sr(a). Jos Lara
+761,Eugenia María Eugenia Griego Serna
+762,Esparta Velásquez Llamas
+763,Andrés Olvera Figueroa
+764,Noemí Esquivel
+765,Ing. Esperanza Lira
+766,Pablo José María Valdez Aponte
+767,Aida Gamboa
+768,Celia Rivas Marrero
+769,Úrsula Clara Marrero
+770,Alicia Burgos
+771,Augusto Soledad Rodrígez
+772,Abigail Diana Tejada
+773,Víctor Roberto Méndez Orellana
+774,Yeni Saldaña
+775,Horacio Irene Gaitán
+776,Dr. Homero Lozada
+777,Laura Juan Carlos Tamayo Mayorga
+778,Caridad Florencia Henríquez Sierra
+779,Silvano Aranda
+780,Martín Jorge Rodarte
+781,Israel Gerardo Villalpando
+782,María Luisa Vélez
+783,Sr(a). Gerardo Montenegro
+784,Zeferino Leiva
+785,Conchita Marisela Armenta
+786,Sr(a). Claudio Domínguez
+787,Juan Pineda Moya
+788,Pamela Salgado
+789,Socorro Casas Negrete
+790,Caridad Gregorio Rosales
+791,Darío Collado Granado
+792,Ariadna Abreu Barragán
+793,Sofía Bahena Tirado
+794,Marcos Lorena Berríos
+795,Hilda Sotelo Corral
+796,Dr. Rebeca Rosario
+797,Guadalupe Miriam Cedillo
+798,Mtro. Genaro Matos
+799,Rosario Josefina Godoy
+800,Gerónimo Blanco Camarillo
+801,Serafín Alejandro Bustamante Cisneros
+802,Lic. Lorenzo Cardona
+803,Mtro. Ana María Tamez
+804,Lic. Roberto Cadena
+805,Mtro. Lucía Montenegro
+806,Concepción Pascual Solorzano Segovia
+807,Adalberto Eva Mora
+808,Noelia Ornelas Perales
+809,Sr(a). Mayte López
+810,Ing. Germán Casanova
+811,María Teresa Armas Casillas
+812,Omar Mondragón
+813,Santiago Salas
+814,Andrés Reina Pizarro
+815,Eric Ávila Velázquez
+816,Claudio Gutiérrez
+817,Dolores Celia Ulloa Salazar
+818,Antonio Casanova
+819,Hernán Marisol Olivas Melgar
+820,Elisa Anel Aguirre Tijerina
+821,Mtro. Micaela Vela
+822,Francisco Blanca Santillán Bahena
+823,Eric René Rubio
+824,Eric Mejía Domínguez
+825,Elisa Barela
+826,Sr(a). Homero Serrato
+827,César Paola Trujillo Carrasco
+828,Helena César Anguiano
+829,Natividad Aurora Valencia
+830,Renato Mata Lebrón
+831,Pedro Tapia
+832,Mtro. Aurelio Barrios
+833,Jos Natalia Alfaro
+834,Virginia Prieto
+835,Miriam Orozco
+836,María Cristina Sotelo Muro
+837,Ángel Gerónimo Benítez Feliciano
+838,Emilia Apodaca Malave
+839,Diana Sessa Montemayor Montez
+840,Zacarías Esmeralda Haro
+841,Wendolin Dulce María Rodríquez Limón
+842,Mario Loera
+843,Lic. Juan Carlos Moreno
+844,Zeferino Ariadna Casanova
+845,Trinidad Cecilia Flores Guzmán
+846,Ángela Solano
+847,Celia Valladares
+848,Rodrigo Lilia Rojas Almaraz
+849,Dr. Ariadna Vásquez
+850,Lic. Eugenia Ruiz
+851,Esperanza Fernández
+852,José Luis Gil Collazo
+853,Alfonso Burgos
+854,Rebeca Cynthia Ibarra Corral
+855,Sr(a). Barbara Gracia
+856,Ramiro Mario Irizarry
+857,Gonzalo Yeni de la Rosa Alonzo
+858,Jonás Aguirre Leiva
+859,Dr. Adela Barraza
+860,Marcos Espinal Bernal
+861,Alta  Gracia Abelardo Galarza
+862,Wilfrido Bermúdez Pelayo
+863,Amalia Mónica Vergara Sosa
+864,Dr. Emilio Anguiano
+865,Magdalena Rosario Contreras Polanco
+866,Ing. Lorena Mayorga
+867,Bernabé Natalia Jáquez Ulloa
+868,Estefanía Carrero
+869,Dr. Clara Zepeda
+870,Rosa Barbara Montalvo Cardenas
+871,Francisco Esquivel Nájera
+872,Gustavo Eduardo Pedraza
+873,Jonás Andrea Acevedo Villaseñor
+874,Leonel Rocío Olivas
+875,Sandra Lira
+876,Dr. Carlota Arriaga
+877,Yuridia Teresa Sandoval
+878,Lilia Berríos
+879,Jaqueline Andrea López Calderón
+880,Abel Jacobo Maldonado
+881,Irene Nancy Ortiz
+882,Jaqueline Treviño Núñez
+883,Tomás Vicente de Anda
+884,Wilfrido Trejo
+885,Augusto Frida Becerra Pineda
+886,Susana Rubén Ruelas Puga
+887,Francisca Jasso
+888,Margarita José Carlos Valentín Chapa
+889,Georgina Daniel Bermúdez
+890,Renato Rocha Berríos
+891,Sr(a). Gerónimo Alvarado
+892,Iván Adriana Roque
+893,Reina Graciela Carrión Casillas
+894,Nadia Rolando Aguirre
+895,Jacobo Leyva
+896,Hernán Urbina Negrete
+897,José Eduardo Eduardo Cuellar Gamboa
+898,Francisca Ledesma Puente
+899,Gilberto Omar Ortiz
+900,Noemí Blanca Sandoval Chapa
+901,Dr. Estefanía Menchaca
+902,Indira Garica Treviño
+903,Úrsula Ávalos
+904,Mtro. Pamela Guardado
+905,Leonel Teodoro Cisneros
+906,Dr. Sessa Pedroza
+907,Sr(a). Guadalupe Zambrano
+908,Roberto Bustamante
+909,Jacobo Carmona de León
+910,Daniel Blanco Perea
+911,Hermelinda Luisa Olivera Colunga
+912,Rocío Abigail Guerra
+913,Sr(a). Marisol Morales
+914,Judith Lorena Salgado
+915,Anabel Fernández Carranza
+916,María José Mayte Barrios Jaramillo
+917,Nancy Quezada
+918,David Serrano Echeverría
+919,Clara Blanco Cortez
+920,Luis Manuel Linda Cuellar Holguín
+921,Dr. Cristal Peres
+922,Cecilia Victoria Cintrón Aragón
+923,Zeferino Julia Santacruz
+924,Rodolfo Úrsula Jaime
+925,Blanca Vicente Negrete
+926,Anabel Salazar Caballero
+927,Celia Porras
+928,Homero Andrés Pulido Guajardo
+929,Dr. Alonso Melgar
+930,Caridad Miguel Ángel Alemán Ordóñez
+931,Sessa Yolanda Jiménez Terán
+932,Jonás Margarita Peres Vázquez
+933,René Apodaca
+934,Ing. Lourdes Rubio
+935,María Elena Joaquín de la Crúz
+936,Sr(a). Adela Tello
+937,Alvaro Juan Maldonado
+938,Angélica Yolanda Barrera Alvarado
+939,Jaqueline Miriam Reyes
+940,Ing. Gonzalo Riojas
+941,Rocío Armenta Rojas
+942,Sergio Curiel
+943,Alicia Silvano Baeza Quezada
+944,Jaime Amador Munguía
+945,Rodolfo Bernabé Valenzuela Tórrez
+946,Cornelio Catalina Arredondo Laureano
+947,Isabel Elsa Anaya Narváez
+948,Yolanda Antonia Cavazos Henríquez
+949,Antonia Rebeca Acuña
+950,Estefanía Valdivia Gil
+951,Sr(a). María Cristina Piña
+952,Sr(a). Fidel Vázquez
+953,Mtro. Luis Durán
+954,Julia Marroquín
+955,Ing. Raquel Terán
+956,Enrique Ulibarri
+957,Adalberto Ulloa
+958,Serafín Pulido Valdés
+959,Amelia Guajardo
+960,Benito Gabriela Centeno Almonte
+961,José Carlos Arturo Sepúlveda
+962,Victoria Negrón Blanco
+963,Claudia Ivonne Rivas Romo
+964,Irene Luz Méndez Villagómez
+965,Alma Malave
+966,Ing. Alejandro Toro
+967,Isabela Páez Curiel
+968,Gregorio Felix Niño
+969,Juan Collado
+970,Daniela Espinosa Huerta
+971,Andrea Verónica Moya Montaño
+972,Ignacio Echeverría Tamayo
+973,Germán Rosario
+974,Fernando Sandra Figueroa
+975,Carla Mariana Quiroz Almanza
+976,Yeni Vázquez Guillen
+977,Lic. David Fierro
+978,Adán Carrasco
+979,Anabel Aurelio Campos
+980,Homero Cotto
+981,Ángela Francisco Zepeda Naranjo
+982,Camila Rodríguez
+983,Felix Jorge Crespo
+984,Dr. Daniela Calderón
+985,Asunción Liliana Chapa
+986,Mtro. María Teresa Marroquín
+987,Paola Débora Venegas Mondragón
+988,Enrique Velásquez del Río
+989,Sr(a). Roberto Segovia
+990,Eduardo Emiliano Sandoval Treviño
+991,Dr. Alejandro Vélez
+992,Sr(a). Angélica Salinas
+993,Rosa José Eduardo Camacho
+994,Héctor Pascual Ramón
+995,Abraham Alarcón Polanco
+996,Elena Matos
+997,Humberto Villalpando Acevedo
+998,Dr. José María Palacios
+999,Hermelinda Olga Colunga
+1000,Barela-Rodrígez
+1001,Corporacin León y Tórrez
+1002,Bonilla-Ocampo
+1003,Barrios-Miramontes S.A. de C.V.
+1004,Aparicio-Elizondo e Hijos
+1005,"Esquibel, Galván y Peña"
+1006,Barajas-Ozuna
+1007,Olivo y Nava S.C.
+1008,Proyectos Ulibarri y Jáquez
+1009,"Laboratorios Collado, Rivero y Rendón"
+1010,Laboratorios Cardona-Bétancourt
+1011,Grupo Alvarado-Montaño
+1012,Negrete S.A.
+1013,"Cornejo, Sauceda y Hinojosa"
+1014,Ramos-Collado S. R.L. de C.V.
+1015,Cedillo y Arguello e Hijos
+1016,Despacho Toledo-Flórez
+1017,Ontiveros y Cisneros S.A. de C.V.
+1018,Proyectos Ordóñez-Maldonado
+1019,Medrano y Rosas y Asociados
+1020,Quintanilla-Pedraza
+1021,Sáenz-Guerrero
+1022,Carrión-Rosario S.A. de C.V.
+1023,Olivas-Serna S.C.
+1024,"Proyectos Ríos, Covarrubias y Estévez"
+1025,Solorio-Saucedo
+1026,"Caraballo, Castillo y Alcaraz"
+1027,"Gastélum, Roybal y Lucio"
+1028,Roldán-Rodarte
+1029,Laboratorios Villarreal-Moreno
+1030,Club Ontiveros y Alfaro
+1031,Yáñez-Cortés
+1032,Despacho Mojica y Guardado
+1033,Zamora-Gallegos A.C.
+1034,"Carbajal, Benavídez y Salinas"
+1035,Velázquez-Aparicio S. R.L. de C.V.
+1036,Laboratorios Nájera-Jaime
+1037,Rivas-Munguía
+1038,Madera y Herrera S.A.
+1039,Fonseca y Ocasio e Hijos
+1040,Club Marín y Piña
+1041,"Quesada, Salas y Ibarra"
+1042,Ojeda-Villaseñor
+1043,Ortiz-Páez
+1044,Suárez e Hijos
+1045,Vargas-Crespo
+1046,Casas y Vanegas S.C.
+1047,"Industrias del Río, Amador y Paz"
+1048,Valenzuela y Vanegas S.C.
+1049,Varela y Frías S. R.L. de C.V.
+1050,Despacho Guardado y Henríquez
+1051,Benítez-Saldaña S.A. de C.V.
+1052,Candelaria S. R.L. de C.V.
+1053,Huerta-Jimínez
+1054,Roybal-Quintana A.C.
+1055,Naranjo-Escamilla S.C.
+1056,Industrias Rosales y Loya
+1057,Almanza A.C.
+1058,Madrigal S.A.
+1059,Corporacin Angulo y Ocampo
+1060,Ulloa-Portillo
+1061,Paz y Montemayor e Hijos
+1062,Alcaraz-Jáquez
+1063,Menéndez y Asociados
+1064,Grupo de la O y Samaniego
+1065,Colón y Gamboa e Hijos
+1066,Grupo Corona-Barrientos
+1067,Noriega S.A.
+1068,"Olivera, Santiago y Ozuna"
+1069,Industrias Quintana y Martínez
+1070,Marroquín-Villarreal
+1071,"Corporacin Tamez, Puente y Jaimes"
+1072,Industrias Peralta y López
+1073,"Campos, Borrego y López"
+1074,"Grupo Balderas, Orta y Sáenz"
+1075,"Guevara, Alba y Botello"
+1076,Rosas-Montalvo
+1077,Carreón-Rosado
+1078,Prado-Montez e Hijos
+1079,"Laboratorios Muro, Briones y Vela"
+1080,"Grupo Rascón, Verdugo y Valdés"
+1081,Cortez y de la Rosa S. R.L. de C.V.
+1082,Proyectos Delgado-Abrego
+1083,Hurtado-Casas
+1084,González e Hijos
+1085,"Proyectos Olvera, Leyva y Ochoa"
+1086,"Loya, Orta y Mayorga"
+1087,Rosales-Ozuna e Hijos
+1088,Despacho Ulloa y Ordóñez
+1089,Velázquez S.C.
+1090,Orozco-Ontiveros S.C.
+1091,"Industrias Serrato, Mota y Arredondo"
+1092,"Club Mojica, Robles y Prado"
+1093,Corporacin Aguayo-Galván
+1094,Vera-Aguilera
+1095,Industrias Arriaga-Cornejo
+1096,Corral-Villagómez S.A.
+1097,"Sotelo, Osorio y Carbajal"
+1098,Zayas S.A.
+1099,"Club Noriega, Verduzco y Cintrón"
+1100,Salgado-Yáñez
+1101,Delgado-Orta
+1102,Quintanilla-Zepeda A.C.
+1103,Mendoza y Collado A.C.
+1104,"Herrera, Velásquez y Noriega"
+1105,Pichardo-Verduzco
+1106,Varela-Amaya S.A.
+1107,Industrias Baca y Arce
+1108,Estrada-Salazar e Hijos
+1109,Industrias Casares-Farías
+1110,Oquendo e Hijos
+1111,"Grupo Pichardo, Dueñas y Montenegro"
+1112,Grupo Maestas-Acuña
+1113,Arias S.A.
+1114,Club Leal y Valdés
+1115,"Ceballos, Barrera y Vallejo"
+1116,Menchaca e Hijos
+1117,Despacho Rosas-Uribe
+1118,Carrasco-Roldán
+1119,Jasso-Mendoza
+1120,Berríos y Niño S.A.
+1121,Villareal y Rodarte S.C.
+1122,"Proyectos Hidalgo, Orosco y Cabán"
+1123,Rendón y Rosario A.C.
+1124,Corporacin Longoria-Maestas
+1125,Feliciano-Lovato
+1126,Anaya-Amador
+1127,Rodríquez y Tovar S.C.
+1128,Gallardo y Quintana S.C.
+1129,Industrias Jaimes y Gollum
+1130,Grijalva-Villaseñor S.A. de C.V.
+1131,Proyectos Ortega-Ureña
+1132,"Laboratorios Navarrete, Bueno y Guerrero"
+1133,"Olivera, Borrego y Pabón"
+1134,Tórrez-Acevedo
+1135,"Rocha, Gutiérrez y Nazario"
+1136,Proyectos Haro y Gutiérrez
+1137,Cortés y Garza S.A.
+1138,Despacho Centeno-Pabón
+1139,Miramontes S.A.
+1140,Garibay-Ceballos S.C.
+1141,"Club Ceja, Chávez y Haro"
+1142,Garibay A.C.
+1143,"Tapia, Mena y Ballesteros"
+1144,Ceballos y Garica A.C.
+1145,Prieto-Ochoa S.C.
+1146,"Proyectos Escamilla, Quiroz y Ramón"
+1147,Corporacin Alonso-Patiño
+1148,Vargas-Núñez
+1149,Balderas-Vallejo S.A.
+1150,"Grupo Ocasio, Zelaya y Carrasco"
+1151,"Proyectos Yáñez, Báez y del Río"
+1152,Casillas-Vásquez
+1153,Toro y Gallardo S.C.
+1154,Laboratorios Sierra y Sauceda
+1155,"Vargas, Maya y Gamboa"
+1156,Corporacin Puente-Bahena
+1157,Nieto y Olivárez S. R.L. de C.V.
+1158,Cardona e Hijos
+1159,Bernal-Arevalo
+1160,Toledo S.A. de C.V.
+1161,Maldonado y Torres S. R.L. de C.V.
+1162,Báez-Beltrán S.C.
+1163,Industrias Páez y Rosario
+1164,"Despacho Márquez, Prieto y Castellanos"
+1165,"Domínguez, Castillo y Castro"
+1166,Cortés S.A.
+1167,"Ramos, Cano y Almanza"
+1168,Despacho Núñez y Ordóñez
+1169,Industrias Ocasio-Benítez
+1170,Rosales-Sepúlveda
+1171,"Griego, Delgadillo y Barrera"
+1172,"Corporacin Hinojosa, Camarillo y Montoya"
+1173,Proyectos Nava y Tórrez
+1174,Arroyo e Hijos
+1175,Despacho Blanco-Carvajal
+1176,"Villagómez, Montez y Chapa"
+1177,"Laboratorios Otero, Cardenas y Carrasco"
+1178,"Rivera, Burgos y Navarro"
+1179,"Corporacin Romo, Rolón y Serna"
+1180,Cazares y Barrera A.C.
+1181,Grupo Trujillo y Sotelo
+1182,Rael S.A.
+1183,"Aguilar, Aranda y Mascareñas"
+1184,"Navarrete, Cantú y Monroy"
+1185,Duarte-Jaime
+1186,Alemán-Garica S.A. de C.V.
+1187,Amador-Ceballos
+1188,Amador-Barrera
+1189,Proyectos Camacho-Bustos
+1190,"Heredia, Ponce y Dueñas"
+1191,"Corporacin Guzmán, Luna y Laureano"
+1192,Proyectos Berríos-Cedillo
+1193,Elizondo-Campos
+1194,Raya y Ureña S.C.
+1195,Proyectos Alemán y Roybal
+1196,Nájera e Hijos
+1197,Ibarra-Carrero
+1198,"Candelaria, Mondragón y Ybarra"
+1199,Paz-Rodríguez S. R.L. de C.V.
+1200,Laboratorios Olivárez y Dávila
+1201,Valdivia-Berríos y Asociados
+1202,Caldera y Asociados
+1203,"Club Regalado, Aragón y Cordero"
+1204,Robledo-Villarreal
+1205,Olmos-Sisneros
+1206,Luevano-Escamilla e Hijos
+1207,"Laboratorios Fierro, Orosco y Arevalo"
+1208,Industrias Armendáriz-Gastélum
+1209,Gollum S. R.L. de C.V.
+1210,Industrias de la Garza-Leiva
+1211,"Venegas, Yáñez y Estévez"
+1212,"Pedraza, Lemus y Ochoa"
+1213,"Arias, Casas y Molina"
+1214,Despacho Henríquez-Ramos
+1215,Corporacin Carrión y Pichardo
+1216,Collazo-Sisneros S.A.
+1217,Club Alvarez-Segovia
+1218,Corporacin Jaime y Malave
+1219,Valentín y Estévez S. R.L. de C.V.
+1220,Proyectos Toro y Granados
+1221,Ornelas-Prieto
+1222,Covarrubias-Bermúdez
+1223,Guillen-Cardenas S.A.
+1224,"Despacho Macías, Farías y Garrido"
+1225,"Pulido, Durán y Reséndez"
+1226,"Barajas, Anaya y Muñoz"
+1227,Nevárez-Mares S.C.
+1228,Laboratorios Sevilla-Pacheco
+1229,"Corporacin Jaime, Regalado y Becerra"
+1230,Lovato-Osorio A.C.
+1231,Heredia e Hijos
+1232,Ramón-Urías S. R.L. de C.V.
+1233,"Benavides, Portillo y Centeno"
+1234,"Proyectos Campos, Cardenas y Pedraza"
+1235,Ortiz y Santacruz y Asociados
+1236,"Club Méndez, Juárez y Aguayo"
+1237,Fuentes y Asociados
+1238,Grupo Solorzano y Burgos
+1239,Gaitán S. R.L. de C.V.
+1240,Pérez y Casanova e Hijos
+1241,Arteaga-Pabón
+1242,"Muñoz, Urrutia y Casas"
+1243,"Jaime, Arce y Hinojosa"
+1244,Industrias Olivo-Montoya
+1245,Abreu y Terán y Asociados
+1246,Batista-Rojas
+1247,"Grupo Hernández, Castillo y Muñoz"
+1248,Mena-Vega
+1249,Mares-Blanco y Asociados
+1250,Montemayor-Soto
+1251,Industrias Ozuna-Gamez
+1252,Franco-Prieto A.C.
+1253,Laboratorios Samaniego-Munguía
+1254,"Portillo, Aguilera y Orozco"
+1255,Escamilla-Solís
+1256,"Grupo Alemán, Carbajal y Cavazos"
+1257,Cintrón y Bravo S.A. de C.V.
+1258,"Grupo Palomo, Guerra y Carrera"
+1259,Grupo Lerma-Brito
+1260,Grupo Téllez-Escobedo
+1261,Despacho Fonseca-Alba
+1262,Maestas y Adame y Asociados
+1263,Linares e Hijos
+1264,"Perales, Ozuna y Candelaria"
+1265,"Roque, Bravo y Sotelo"
+1266,Ulloa-Valdés
+1267,Corporacin Barrios y Guajardo
+1268,Miranda S.A.
+1269,"Despacho Abreu, Díaz y González"
+1270,"Laboratorios Matías, de León y Mesa"
+1271,Corporacin Peres y Juárez
+1272,Montez S.A.
+1273,Girón y Trujillo S.A.
+1274,"Vela, Matos y Valadez"
+1275,Preciado-de la Garza A.C.
+1276,Bétancourt-Aguilar e Hijos
+1277,Proyectos Serrano-Acuña
+1278,"de la Fuente, Lucero y Ponce"
+1279,Club Salgado-Méndez
+1280,"Proyectos Tórrez, Ocasio y Rosado"
+1281,"Club Sosa, Alcaraz y Santacruz"
+1282,Prado-Pichardo
+1283,Laboratorios Muñoz y Garica
+1284,"de León, Alba y Delgado"
+1285,Vélez-Gracia
+1286,Regalado e Hijos
+1287,Vásquez-Armendáriz e Hijos
+1288,Cardenas-Fajardo e Hijos
+1289,Vargas-Menéndez A.C.
+1290,Laboratorios Montemayor-Mata
+1291,Alva-Rangel S.A.
+1292,Ramírez y Solano A.C.
+1293,Crespo-Villanueva S.A.
+1294,Barrios S.C.
+1295,Laboy-de la Rosa
+1296,Soliz-Murillo S.C.
+1297,Industrias Enríquez-Mercado
+1298,Treviño-Sotelo e Hijos
+1299,Laboratorios Espinal y Berríos
+1300,Girón-Serna
+1301,Linares-Villegas
+1302,"Castro, Barragán y Villanueva"
+1303,Cazares y Arenas S. R.L. de C.V.
+1304,Cabrera y Zúñiga e Hijos
+1305,Despacho Carreón-Moreno
+1306,"Laboratorios Rivas, Zayas y Fernández"
+1307,Despacho Mateo y Rivera
+1308,Industrias Bernal-Godoy
+1309,Corporacin Mesa-Curiel
+1310,Despacho de la Crúz y Lomeli
+1311,Sevilla S.A.
+1312,Corporacin Rico-Vergara
+1313,Ulloa-Palacios S.C.
+1314,Dávila-Cordero e Hijos
+1315,Ortiz S.A.
+1316,Ceja-Cordero
+1317,Laboratorios Lemus-Guillen
+1318,"Vázquez, Abrego y Verdugo"
+1319,"Montenegro, Vázquez y Medrano"
+1320,Cavazos y Coronado S. R.L. de C.V.
+1321,Hernández S.A. de C.V.
+1322,"Bermúdez, Carrillo y Arias"
+1323,Linares S.A. de C.V.
+1324,Laboratorios Gil-López
+1325,Corporacin Rodarte-Madrigal
+1326,Arriaga-Negrón
+1327,Proyectos Trejo-Hernádez
+1328,Despacho Leiva y Armendáriz
+1329,Sosa S.A.
+1330,Arias y Asociados
+1331,Zarate-García
+1332,Casárez y Almanza S. R.L. de C.V.
+1333,Acosta-Preciado S.A.
+1334,"Proyectos Fernández, Caballero y Luna"
+1335,Grupo Briseño y Rivas
+1336,Esparza-Peres S. R.L. de C.V.
+1337,Saucedo y Reyes y Asociados
+1338,Zamudio-Castellanos A.C.
+1339,Proyectos Gaona-Canales
+1340,Proyectos Lozano y Aguirre
+1341,Batista y Ontiveros e Hijos
+1342,Cortez-Alcala
+1343,"Juárez, Macías y Canales"
+1344,Sandoval A.C.
+1345,"Corporacin Roque, Maestas y Soliz"
+1346,Arias-Martínez S.C.
+1347,Aponte y Ojeda y Asociados
+1348,Patiño-Mojica
+1349,Industrias Arreola y Loya
+1350,Club Alemán-Chávez
+1351,Ávila y Cortez S.A. de C.V.
+1352,"Grupo Méndez, Galván y Moreno"
+1353,Club Olivas-Paz
+1354,Tamez e Hijos
+1355,Varela-Sandoval
+1356,"Grupo Guajardo, Farías y Morales"
+1357,Valdés y Arreola e Hijos
+1358,Garay-Farías
+1359,Jaime S.A.
+1360,"Laboratorios Lomeli, Sisneros y Toledo"
+1361,Garrido S. R.L. de C.V.
+1362,Becerra-Corral
+1363,Amador A.C.
+1364,"Industrias Guerra, Baca y Pulido"
+1365,"Godoy, Ocampo y Ramírez"
+1366,Corporacin Portillo y García
+1367,Crespo-Cepeda S. R.L. de C.V.
+1368,"Luna, Ceja y Fuentes"
+1369,Haro-Rentería y Asociados
+1370,Club Pabón-Zaragoza
+1371,"Industrias Serrano, Villegas y Garrido"
+1372,Maya S.A. de C.V.
+1373,Manzanares y Barrera S.A.
+1374,Orosco-Alcántar
+1375,"Saucedo, Vélez y Fernández"
+1376,"Corporacin Valentín, Torres y Anguiano"
+1377,Industrias Nieto y Fernández
+1378,"Ferrer, Jáquez y Frías"
+1379,Despacho Báez-Juárez
+1380,"Corporacin Meléndez, Gómez y Páez"
+1381,Ortega-Villalobos S.A. de C.V.
+1382,Barela y Alva S.C.
+1383,Segura y Mota S.A. de C.V.
+1384,Club del Río-Barela
+1385,"Industrias Villalpando, Alba y Castañeda"
+1386,Tapia-Caraballo
+1387,Grupo Lebrón y Acuña
+1388,Laboratorios Prado y Garza
+1389,Jasso-Cardona S.A.
+1390,Despacho Gonzales y Mascareñas
+1391,Luna-Galarza
+1392,Grupo Longoria-Ojeda
+1393,Grupo Loya-Hernández
+1394,Heredia-Alvarado e Hijos
+1395,Leal y Sánchez e Hijos
+1396,Laboratorios Muñoz y Leal
+1397,Laboratorios Yáñez-Quiñones
+1398,Industrias Campos y Lomeli
+1399,"Grupo Treviño, Romero y Hernández"
+1400,"Ferrer, Ruelas y Orta"
+1401,Despacho Granados-Esquivel
+1402,Rolón S.A.
+1403,"Rico, Briseño y Acevedo"
+1404,Gálvez-Zaragoza
+1405,Briseño y Godoy S. R.L. de C.V.
+1406,Espinoza S. R.L. de C.V.
+1407,Sarabia-Barela
+1408,Industrias Núñez y Velásquez
+1409,Velásquez S.A.
+1410,"Corporacin Córdova, Centeno y Beltrán"
+1411,Industrias Anaya y Granados
+1412,Salcido S.C.
+1413,Olvera e Hijos
+1414,"Galindo, Montero y Borrego"
+1415,Pedraza A.C.
+1416,Orta e Hijos
+1417,Bahena S.A. de C.V.
+1418,Peres-Fernández S. R.L. de C.V.
+1419,Club Malave-Longoria
+1420,Villalpando y Mora y Asociados
+1421,"Laboratorios Rascón, Regalado y Reyes"
+1422,Aragón-de Jesús S.A.
+1423,"Corporacin Barajas, Holguín y Rojas"
+1424,Cadena-Tello
+1425,Solís S.A.
+1426,Proyectos Serrano y Alonso
+1427,Laboratorios Ceja-de la Fuente
+1428,"Proyectos Madrigal, Castro y Meza"
+1429,Robledo y Asociados
+1430,Alba S.A. de C.V.
+1431,Magaña-Adame
+1432,Páez y Ponce S.C.
+1433,"Badillo, Cepeda y Saiz"
+1434,Raya y Calvillo S.A. de C.V.
+1435,Reyes S. R.L. de C.V.
+1436,Grupo Olivera-Abrego
+1437,"Corporacin Torres, Zapata y Venegas"
+1438,Laboratorios Granado-Melgar
+1439,Olmos S.C.
+1440,Corporacin Alejandro-Tovar
+1441,Botello y Galván S.A.
+1442,Jimínez-Riojas
+1443,Domínguez y Luevano S.C.
+1444,Armenta-Bonilla e Hijos
+1445,"Arredondo, Maestas y Contreras"
+1446,"Laboratorios López, Gaytán y Sanabria"
+1447,"Herrera, Benítez y Quintero"
+1448,"Mesa, Flores y Villalpando"
+1449,"Grupo Pedraza, Durán y Urrutia"
+1450,Industrias Peralta y Rodríquez
+1451,Colón-Grijalva
+1452,"Despacho Cortés, Madera y Romo"
+1453,Industrias Casas-Farías
+1454,"Corporacin Sierra, González y Canales"
+1455,Franco S.A. de C.V.
+1456,de Anda y Briones e Hijos
+1457,Madrid y Partida S.C.
+1458,Despacho Hurtado-Samaniego
+1459,Despacho Molina y Fernández
+1460,Corporacin Lucio-Quesada
+1461,Grupo Tejeda y Ruiz
+1462,"Proyectos Lugo, del Valle y Cardona"
+1463,Industrias Ocampo y Urrutia
+1464,"Armas, Huerta y Vera"
+1465,"Solorzano, Frías y Carrasco"
+1466,Palacios y Hinojosa S.A.
+1467,Cadena e Hijos
+1468,Quintero y Reyna S.A.
+1469,Laboy S.C.
+1470,"Despacho Villalpando, Quintanilla y Irizarry"
+1471,Sosa S.C.
+1472,Laboratorios Padrón-de León
+1473,Bustamante S.A.
+1474,Industrias Amador y Valladares
+1475,"Orozco, Barela y Leiva"
+1476,Mercado y Ocasio A.C.
+1477,Industrias Mateo y Jimínez
+1478,Valdivia e Hijos
+1479,Proyectos Holguín-Heredia
+1480,"Corporacin Casillas, Toro y Velázquez"
+1481,Guzmán-Bravo
+1482,Rangel y Monroy A.C.
+1483,"Toledo, de la Fuente y Pineda"
+1484,"Corporacin Núñez, Barrientos y Valverde"
+1485,Parra y Razo A.C.
+1486,Cepeda y Villalobos S.A. de C.V.
+1487,Cruz-Arguello y Asociados
+1488,Zedillo S. R.L. de C.V.
+1489,Industrias Roque-Mares
+1490,Ortiz-Muñiz S. R.L. de C.V.
+1491,Avilés-Gamez
+1492,"Industrias Ocasio, Arce y Véliz"
+1493,Puente y Salas S.A. de C.V.
+1494,Aguilar-Balderas S. R.L. de C.V.
+1495,Industrias Caballero y Ruiz
+1496,Alcaraz y Olivo S.C.
+1497,"Despacho Loera, Salinas y Barrera"
+1498,Corporacin Luna-Paredes
+1499,Grupo Cisneros y Viera
+1500,Ledesma-Zedillo A.C.
+1501,"Corporacin Villaseñor, Palomino y Martínez"
+1502,Menchaca y Benavídez y Asociados
+1503,Grupo Arenas-Cornejo
+1504,Estévez-Godínez y Asociados
+1505,Proyectos Cuellar y Trujillo
+1506,Corporacin Salcedo-Arteaga
+1507,Industrias Santacruz-Solís
+1508,"Arellano, Reyna y Galindo"
+1509,Proyectos Rentería-Zavala
+1510,"Despacho Heredia, Moreno y Rodríquez"
+1511,Gutiérrez-Puga y Asociados
+1512,"Quiñones, Morales y Serrato"
+1513,Espinosa A.C.
+1514,Salgado S.A. de C.V.
+1515,Corporacin Amaya y Madrigal
+1516,Aguayo S.C.
+1517,Grupo Palacios-Serrano
+1518,Corporacin Archuleta y Verdugo
+1519,Roque-Ballesteros
+1520,Despacho Madrigal-Romero
+1521,Rivas-Barajas
+1522,"Barrera, Rascón y Guzmán"
+1523,Soliz-Saldivar
+1524,"Cardenas, Valenzuela y Fuentes"
+1525,"Quezada, Gamboa y Corrales"
+1526,Corporacin Nájera y Matías
+1527,Club Alonzo y Longoria
+1528,"Ochoa, Tafoya y Velasco"
+1529,Villaseñor-Solano y Asociados
+1530,Ferrer y Ruiz S.A.
+1531,"Arroyo, Vigil y Hinojosa"
+1532,"Laboratorios Chacón, Rosas y Tórrez"
+1533,Vaca y Parra S.C.
+1534,"Industrias Naranjo, Robles y Castañeda"
+1535,Corporacin Ávila-Sarabia
+1536,Despacho Robledo-Bustamante
+1537,Prieto-Alvarado
+1538,"Proyectos Holguín, Casillas y Holguín"
+1539,"Proyectos del Río, Cuellar y Corona"
+1540,Proyectos Zedillo y Miranda
+1541,"Laboratorios Murillo, Cisneros y Narváez"
+1542,Meléndez-Magaña
+1543,Sanabria-Acuña S.C.
+1544,"Industrias Gastélum, del Río y Jaime"
+1545,Rubio y Ybarra e Hijos
+1546,"Grupo Quesada, Chavarría y Castillo"
+1547,"Alva, Granado y Valentín"
+1548,Abreu A.C.
+1549,Industrias Bustamante y Arce
+1550,Briones-Ibarra A.C.
+1551,Becerra-Esquibel S.A. de C.V.
+1552,Industrias Alva y Laboy
+1553,Corporacin Canales-Luevano
+1554,Peña y Segura S.C.
+1555,Carrasco A.C.
+1556,Laboratorios Zaragoza-Esparza
+1557,Mendoza-Guajardo
+1558,Heredia-Granados
+1559,Longoria-Angulo
+1560,Industrias Valles-Padrón
+1561,"Industrias Jaime, Alcaraz y Ceja"
+1562,"Proyectos Sánchez, Muñoz y Galindo"
+1563,Prado-Colunga e Hijos
+1564,"Club López, Santiago y Sanches"
+1565,Barrera-Reyna
+1566,Palacios-Amador S.C.
+1567,Industrias Gamez y Gaitán
+1568,Carbajal A.C.
+1569,"Tamayo, Mesa y Alcaraz"
+1570,"Corporacin Ureña, Sisneros y Mata"
+1571,Industrias Montoya y Sierra
+1572,Club López y Sanches
+1573,Medina y Rodrígez A.C.
+1574,Apodaca-Corral
+1575,"Elizondo, Paredes y Rosas"
+1576,Corporacin Quesada-Blanco
+1577,Laboratorios Girón-Balderas
+1578,Valentín-Salcido y Asociados
+1579,Ramón S.A. de C.V.
+1580,"Laboratorios Alba, Varela y Ponce"
+1581,Cotto-Acevedo A.C.
+1582,Corporacin Garrido y Sánchez
+1583,Domínguez S.A. de C.V.
+1584,"Laboratorios Aparicio, Rolón y de la Torre"
+1585,Ruiz-Mendoza
+1586,Proyectos Pedroza-Rangel
+1587,"Mondragón, Valverde y Parra"
+1588,Guevara y Asociados
+1589,"Tamez, Jimínez y Perea"
+1590,Lara-Muñoz y Asociados
+1591,Grupo Galindo-Casas
+1592,Ybarra-Alcaraz y Asociados
+1593,Club Alonso-Venegas
+1594,Vásquez-Mercado S.C.
+1595,"Laboratorios Menéndez, Villaseñor y Corral"
+1596,"Despacho Roldán, Aguilar y Serrano"
+1597,"Proyectos Salazar, Ortega y Porras"
+1598,"Meraz, Guevara y Jaime"
+1599,"Segura, de Anda y Razo"
+1600,"Hinojosa, Manzanares y de la O"
+1601,Hernádez-de la Rosa
+1602,Fuentes-Santiago
+1603,Industrias Tovar y Zamora
+1604,Díaz-Serrano y Asociados
+1605,Vaca y Segovia e Hijos
+1606,Industrias Estrada y Ruiz
+1607,Zedillo-Barrera
+1608,Portillo A.C.
+1609,Industrias Adame-Jimínez
+1610,Club Galván-Ceja
+1611,Almonte-Lira
+1612,Abrego-Frías e Hijos
+1613,"Club Quezada, Díaz y Ramos"
+1614,"Laboratorios Bernal, Cordero y Sotelo"
+1615,Godoy-Carreón
+1616,Saucedo y Moya S. R.L. de C.V.
+1617,Carranza-Gonzales
+1618,Industrias Velasco-Bahena
+1619,Despacho Villanueva y Madrid
+1620,Gómez S. R.L. de C.V.
+1621,Laboratorios Jimínez-Arenas
+1622,Amaya S. R.L. de C.V.
+1623,Medrano-Gamboa y Asociados
+1624,"Hernandes, Ponce y Ceballos"
+1625,Linares y Tijerina S. R.L. de C.V.
+1626,Esparza-Hidalgo
+1627,"Rico, González y Soto"
+1628,Páez y Peralta S.A.
+1629,"Moya, Beltrán y Valle"
+1630,Rodarte-Lozano A.C.
+1631,López A.C.
+1632,Rodríguez-Ochoa S.A. de C.V.
+1633,Proyectos Rodríguez y Matos
+1634,Club Hidalgo-Espino
+1635,"Briseño, Balderas y Alcántar"
+1636,Grupo Briseño-Cepeda
+1637,"Escalante, Olivares y Mojica"
+1638,Vega S.A.
+1639,"Despacho López, Jimínez y Guevara"
+1640,Alcántar-Salcedo A.C.
+1641,"Piña, Escobar y Montemayor"
+1642,Velázquez y Meléndez S.C.
+1643,"Pantoja, Tafoya y Moreno"
+1644,Industrias Armendáriz-Bermúdez
+1645,Laboratorios Montañez-Barraza
+1646,"del Río, Rael y Palacios"
+1647,"Covarrubias, Ornelas y Briseño"
+1648,"Corporacin Cuellar, Caldera y Rascón"
+1649,"Club Solorzano, Mena y Saucedo"
+1650,Cardenas A.C.
+1651,Club Cruz-Feliciano
+1652,Grupo Alejandro y Núñez
+1653,Aguilera S.A. de C.V.
+1654,Laboratorios Posada-Puente
+1655,Oquendo-Laboy A.C.
+1656,Cervántez-Franco
+1657,Vélez-Leyva S.C.
+1658,Grupo Padilla y Ballesteros
+1659,Toro-Gamez
+1660,Gollum-Palomo y Asociados
+1661,Marín-Escobedo
+1662,"Oquendo, Vallejo y Aparicio"
+1663,Industrias Calvillo-Arteaga
+1664,Espino S.A.
+1665,"Galindo, Nieto y Romero"
+1666,"Zamora, Mateo y Franco"
+1667,Laboratorios Madrid-Beltrán
+1668,Pedraza y Rivera S.A.
+1669,Ontiveros-Lira
+1670,Proyectos Reyna-Tamayo
+1671,Laboratorios Solís y Valenzuela
+1672,Olmos-Gracia
+1673,Paz y Reyes S.A.
+1674,Club Canales-Rosado
+1675,Amaya-Gallardo S.A.
+1676,"Despacho Marroquín, Meléndez y Murillo"
+1677,Ruelas y Jiménez e Hijos
+1678,Gallardo-Arroyo
+1679,"Despacho Quesada, Almanza y Ulibarri"
+1680,"Industrias Amaya, López y Montaño"
+1681,Véliz-Mayorga
+1682,Villagómez-Arteaga
+1683,"Castillo, Olvera y Venegas"
+1684,Alcántar y Zapata S.A.
+1685,Urbina A.C.
+1686,"Berríos, Montez y Villalobos"
+1687,"Herrera, Serrato y Valdés"
+1688,Elizondo-Calvillo y Asociados
+1689,"Laboratorios Marín, Guardado y Armendáriz"
+1690,"Despacho Cardona, Heredia y Tapia"
+1691,Leal y Asociados
+1692,"Industrias Valdez, Guardado y Laureano"
+1693,Muñoz S. R.L. de C.V.
+1694,Club Acuña-Rangel
+1695,Bravo-Ornelas
+1696,Laboratorios Guerrero-Domínguez
+1697,Camarillo S. R.L. de C.V.
+1698,Quiñones-Zapata y Asociados
+1699,"Madrid, Murillo y Rojas"
+1700,"Meléndez, Osorio y Nazario"
+1701,Montes-Ramírez
+1702,Carrión y Magaña A.C.
+1703,Zaragoza y Munguía A.C.
+1704,Proyectos Garay y Padrón
+1705,de la Torre-Lerma S. R.L. de C.V.
+1706,Caraballo y Briones e Hijos
+1707,Batista-Rentería
+1708,Quiñones y Lebrón e Hijos
+1709,Jasso e Hijos
+1710,Padilla S.A. de C.V.
+1711,"Corporacin Medina, Rosas y Pabón"
+1712,Proyectos Gaitán-Valadez
+1713,"Proyectos Estrada, Santana y Armendáriz"
+1714,Industrias Calderón y Balderas
+1715,Industrias Riojas-Valencia
+1716,Trujillo-Berríos A.C.
+1717,Velázquez-Arenas
+1718,Corporacin Valadez-Matías
+1719,Cantú-Zavala S. R.L. de C.V.
+1720,"Grupo Pantoja, Campos y Barreto"
+1721,Arellano y Ibarra e Hijos
+1722,"Abrego, Barrios y Sanches"
+1723,Irizarry-Montaño
+1724,Hinojosa y Alonso S. R.L. de C.V.
+1725,Manzanares y Asociados
+1726,Laboratorios Acuña y Menéndez
+1727,Despacho Sevilla-Tamayo
+1728,"Ramón, Zarate y Heredia"
+1729,Portillo y Bueno S. R.L. de C.V.
+1730,Club Guardado-Canales
+1731,Cedillo-Vega S. R.L. de C.V.
+1732,"Proyectos Maya, Vega y Botello"
+1733,Carbajal y Tafoya y Asociados
+1734,"Club Esparza, Escobedo y Luevano"
+1735,"Corporacin Verdugo, Dávila y Holguín"
+1736,Bahena y Castañeda S.C.
+1737,Nieto-Venegas
+1738,"Despacho Garza, Pineda y Delgadillo"
+1739,Calderón y Madrid S.C.
+1740,Menchaca-Rodarte e Hijos
+1741,Salcido-Escamilla
+1742,de la O-Bermúdez
+1743,"Ureña, Torres y Mayorga"
+1744,Guzmán y Zapata S.A. de C.V.
+1745,Zamora-Anaya
+1746,"Corporacin Jurado, Villalpando y Arredondo"
+1747,Proyectos Barrios y Ramírez
+1748,Matos-Echeverría S. R.L. de C.V.
+1749,"Corporacin Ornelas, Lugo y Centeno"
+1750,Galarza-Negrón
+1751,Miramontes-Saavedra A.C.
+1752,Guerrero y Madrid S.A. de C.V.
+1753,Espino-Carbajal S.A.
+1754,Galván-Granados S.C.
+1755,"Sevilla, Ocasio y Quintana"
+1756,Muñiz y Arguello S.A.
+1757,Henríquez S. R.L. de C.V.
+1758,"Proyectos Palomo, Canales y Serrano"
+1759,"Carranza, Estrada y Almanza"
+1760,"Marrero, Gallardo y Bañuelos"
+1761,Rangel-Terán
+1762,Sepúlveda-Guevara S.A. de C.V.
+1763,Industrias Urrutia-Juárez
+1764,Gálvez-Velázquez S.A. de C.V.
+1765,Serna y Posada A.C.
+1766,"Casares, Dueñas y Ávila"
+1767,"Grupo Fuentes, de la Fuente y Garay"
+1768,"Jaramillo, Mares y Corral"
+1769,Reséndez-Garza
+1770,"Mercado, Meraz y Alejandro"
+1771,"Proyectos Vergara, Razo y Esquivel"
+1772,Bustos y Asociados
+1773,Cabrera y Esquibel A.C.
+1774,"Corporacin Meléndez, Urrutia y Orozco"
+1775,Mascareñas-Figueroa
+1776,"Club Hidalgo, Galván y Ruelas"
+1777,"Valenzuela, Granado y Díaz"
+1778,Laboratorios Alonso-Montez
+1779,Laboratorios Colón y Yáñez
+1780,"Industrias Noriega, Mena y Laureano"
+1781,Zapata y Narváez A.C.
+1782,Verduzco S. R.L. de C.V.
+1783,Contreras-Cedillo A.C.
+1784,Canales-Apodaca
+1785,Yáñez-Escamilla
+1786,Rosario-Tello e Hijos
+1787,"Laboratorios Mejía, Castañeda y Sisneros"
+1788,"Medrano, Nazario y Baca"
+1789,Correa-Dueñas
+1790,Cepeda-Rocha S.A.
+1791,Alva S. R.L. de C.V.
+1792,Laboratorios de la Crúz-Pacheco
+1793,Ponce-Parra S.C.
+1794,"Laboratorios Peralta, Tamez y Ojeda"
+1795,Zepeda y Saucedo S.A.
+1796,Rocha-Ponce
+1797,Despacho Barrientos y Barrios
+1798,Industrias Villarreal-Ontiveros
+1799,Armendáriz S.A. de C.V.
+1800,Briones y Cervántez S.A. de C.V.
+1801,Laboratorios Collado y Cortez
+1802,"Carvajal, Briseño y Ruelas"
+1803,Club Abrego y Rubio
+1804,Palomino y Castañeda A.C.
+1805,"Corporacin León, Gallegos y Zayas"
+1806,Proyectos Heredia y Pizarro
+1807,Adame-Pacheco
+1808,Zaragoza-Pichardo
+1809,"Ávalos, Juárez y Cardona"
+1810,"Industrias Méndez, Bahena y Ybarra"
+1811,Industrias Ceballos-Báez
+1812,Grupo Lemus y Pelayo
+1813,Despacho Sosa-Pacheco
+1814,Despacho Marroquín y Magaña
+1815,Industrias Benavides-Saucedo
+1816,Cintrón-Valencia S. R.L. de C.V.
+1817,"Proyectos Montañez, Cervántez y Arguello"
+1818,Naranjo-Arias S. R.L. de C.V.
+1819,Industrias Espinoza-Guerrero
+1820,Despacho Castro-Becerra
+1821,Ceballos-Galarza
+1822,"Despacho Amador, Salinas y Mota"
+1823,Mondragón y Lomeli S.A.
+1824,Enríquez-Escobar
+1825,"Proyectos Girón, Apodaca y Casanova"
+1826,Corporacin Razo-de Anda
+1827,Alonso S.A.
+1828,Industrias Medrano y Arce
+1829,Santillán-Palomino e Hijos
+1830,Carrasco y Tamez S.C.
+1831,"Club Zapata, Gamez y Sanches"
+1832,Urbina-Véliz e Hijos
+1833,Baca-Gallardo e Hijos
+1834,Huerta-Lomeli y Asociados
+1835,Espinal y Esquivel S.A.
+1836,Laboratorios Guerra-Cabrera
+1837,"Despacho Verduzco, Hernández y Mireles"
+1838,Laboratorios Villagómez y Reynoso
+1839,"Grupo Parra, Riojas y Olivárez"
+1840,"Grupo Mayorga, Zayas y Durán"
+1841,Zavala S. R.L. de C.V.
+1842,"Club Carreón, Verdugo y Camarillo"
+1843,Ureña y Dávila S.A. de C.V.
+1844,Razo-Avilés S. R.L. de C.V.
+1845,"Club Abreu, Venegas y Domínguez"
+1846,Corporacin Pizarro-Gallardo
+1847,Zavala-Hurtado A.C.
+1848,Girón-Burgos S.C.
+1849,Suárez y Cadena e Hijos
+1850,Montes y Haro e Hijos
+1851,Ybarra y Rangel y Asociados
+1852,Mojica-Carrero
+1853,Centeno-Muñiz
+1854,Proyectos Gaytán y Rocha
+1855,"Corporacin Casillas, Mondragón y Rivero"
+1856,"Grupo Vásquez, Pichardo y Anguiano"
+1857,Grupo Collado y Arias
+1858,Salgado-Aguilar
+1859,Regalado y del Río e Hijos
+1860,Despacho Tejeda y Pantoja
+1861,Corporacin Flores-Ríos
+1862,Grupo Balderas-Elizondo
+1863,Avilés S. R.L. de C.V.
+1864,Corporacin Grijalva-Maya
+1865,Proyectos Velázquez-Botello
+1866,Laureano-Coronado
+1867,Botello-Almanza A.C.
+1868,"Meraz, Razo y Galván"
+1869,Proyectos Centeno y de la Torre
+1870,"Briseño, Amaya y Vallejo"
+1871,Prieto-Zapata S. R.L. de C.V.
+1872,Despacho Serrato-Trejo
+1873,Ornelas y Vega S.A. de C.V.
+1874,Dueñas-Sánchez S.C.
+1875,"Grupo Preciado, Cintrón y Quesada"
+1876,"Club Samaniego, Olmos y Apodaca"
+1877,Proyectos Portillo y Fernández
+1878,"Industrias Arteaga, Elizondo y Alonso"
+1879,Industrias Cardenas y Altamirano
+1880,Varela-Quezada y Asociados
+1881,"Laboratorios Otero, Llamas y de la Garza"
+1882,Merino A.C.
+1883,Vanegas y Valles S.A. de C.V.
+1884,Marroquín-Duarte y Asociados
+1885,Club Blanco-Vigil
+1886,Leal-Baeza S.A.
+1887,Industrias Ponce-Quezada
+1888,Viera A.C.
+1889,Industrias Acevedo-Galarza
+1890,Laboratorios Solorzano-Salcido
+1891,Lemus A.C.
+1892,Maldonado-Corral
+1893,Prado y Valdivia e Hijos
+1894,Quiñónez-Oquendo S.A.
+1895,"Rosales, Irizarry y Vásquez"
+1896,"Industrias Trujillo, Paredes y Noriega"
+1897,Corporacin Almaraz y Guerrero
+1898,Club Ocasio-Manzanares
+1899,"Perales, Olivo y Centeno"
+1900,Márquez-Colón S.A. de C.V.
+1901,Grupo Pedraza-Barrientos
+1902,Industrias Hinojosa y Valencia
+1903,"Figueroa, Curiel y Valenzuela"
+1904,Laboratorios Urbina y Paz
+1905,Lomeli y Granado S.A. de C.V.
+1906,Díaz e Hijos
+1907,Marroquín-Figueroa
+1908,Torres-Espinal
+1909,"Rojas, Pineda y Sanches"
+1910,Grupo Angulo-Sáenz
+1911,Proyectos Casares-Farías
+1912,Club de Anda y Orta
+1913,"Industrias Ortega, Prado y Marrero"
+1914,Grupo Tirado-Venegas
+1915,Garza e Hijos
+1916,"Despacho Almanza, Maya y Ibarra"
+1917,"Luevano, Sarabia y Quesada"
+1918,Club Salas-Mojica
+1919,Ocasio-Báez
+1920,Herrera y Asociados
+1921,"Mayorga, Vanegas y Puga"
+1922,Feliciano y Barajas y Asociados
+1923,Enríquez S.A. de C.V.
+1924,Club Pizarro y Nevárez
+1925,Almanza-Colunga
+1926,"Laboratorios Téllez, Regalado y Suárez"
+1927,Corporacin Gallardo y Salgado
+1928,Quiñónez-Pacheco S.A.
+1929,Aguirre e Hijos
+1930,Cotto-Posada S.C.
+1931,"Grupo Valdés, Castillo y Gamboa"
+1932,Monroy-Varela S.C.
+1933,Corporacin Espinoza y Báez
+1934,Casárez-Partida
+1935,"Club Calvillo, Saldaña y Arteaga"
+1936,Grupo Guerra y Botello
+1937,Sarabia-Torres A.C.
+1938,Pantoja-Aguayo S.A. de C.V.
+1939,Montes S.C.
+1940,"Corporacin Cisneros, Crespo y Rojas"
+1941,Despacho Preciado y Nazario
+1942,Despacho Linares y Gálvez
+1943,Despacho Salas-Padrón
+1944,Corporacin Gutiérrez y Razo
+1945,Industrias Lerma-Echeverría
+1946,Batista e Hijos
+1947,Paredes-Irizarry
+1948,Arevalo y Maestas S.A. de C.V.
+1949,Ulloa A.C.
+1950,Arteaga-Alcaraz S.A.
+1951,"Ordóñez, Barraza y Lucero"
+1952,"Urbina, Sarabia y Pabón"
+1953,Bustos-Cotto
+1954,Ochoa-Morales
+1955,Salinas-Marroquín
+1956,"Villarreal, Carmona y Villareal"
+1957,Valladares S. R.L. de C.V.
+1958,Centeno-Arguello
+1959,Paz y Oquendo S. R.L. de C.V.
+1960,Benavídez S.A.
+1961,Mata-Granado
+1962,Proyectos Razo y Mireles
+1963,Laboratorios de la Fuente-Girón
+1964,Morales-Villanueva
+1965,Tórrez-Dávila S.A. de C.V.
+1966,Magaña-Viera
+1967,Corporacin Barrientos-Sosa
+1968,"Laboratorios Montemayor, Tejeda y Zambrano"
+1969,Covarrubias-Espinal S.A. de C.V.
+1970,Salinas S.A.
+1971,Malave-de la Crúz S.A. de C.V.
+1972,"Gálvez, Sanabria y Guerrero"
+1973,Laboratorios Polanco-Partida
+1974,Villarreal S.C.
+1975,Palomino-Montalvo
+1976,Parra-Velázquez S.C.
+1977,Covarrubias S. R.L. de C.V.
+1978,Solorio S. R.L. de C.V.
+1979,Mares-Armas
+1980,Fonseca y Olivas e Hijos
+1981,Proyectos Griego-Ayala
+1982,Rivero y Gastélum S.A.
+1983,Corporacin Guzmán y Reynoso
+1984,Club León y Saavedra
+1985,Industrias Botello-Rubio
+1986,Vela-Baeza y Asociados
+1987,"de la Rosa, Maestas y Rivas"
+1988,Laboratorios Ballesteros-Espino
+1989,Grupo Ozuna y Ibarra
+1990,Guerra y Almaraz A.C.
+1991,Robles-Carrillo S. R.L. de C.V.
+1992,Proyectos Fajardo-Aparicio
+1993,"Toro, Terrazas y Carreón"
+1994,Proyectos Parra-de la Rosa
+1995,Lugo-Valladares
+1996,Villa y Cabrera A.C.
+1997,"Club Menchaca, Monroy y Bustamante"
+1998,Matías y Zambrano S.C.
+1999,Grupo de la Fuente-Zedillo
