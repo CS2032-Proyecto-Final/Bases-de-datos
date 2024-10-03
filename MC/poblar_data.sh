@@ -1,9 +1,13 @@
 #!/bin/bash
 
+set -a
+source ../.env
+set +a
+
 CURRENT_DIR=$(dirname "$0")
 
 # Archivo SQL
-SQL_FILE="$CURRENT_DIR/importar_datos.sql"
+SQL_FILE="$CURRENT_DIR/insertar_data.sql"
 
 # Vaciado de las tablas en PostgreSQL
 echo "Vaciando las tablas en la base de datos PostgreSQL..."
