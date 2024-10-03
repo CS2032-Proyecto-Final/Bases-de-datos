@@ -1,21 +1,21 @@
 --reemplazar /ruta/ por la ruta hasta el csv
 
-COPY clientes(id, nombre)
+COPY cliente(id, nombre)
 FROM '/ruta/clientes.csv'
 DELIMITER ','
 CSV HEADER;
 
-COPY personas(cliente_id, telefono)
+COPY persona(id, telefono, cliente_id)
 FROM '/ruta/personas.csv'
 DELIMITER ','
 CSV HEADER;
 
-COPY tiendas(cliente_id, correo)
+COPY tienda(id, correo, tienda_id)
 FROM '/ruta/tiendas.csv'
 DELIMITER ','
 CSV HEADER;
 
-COPY cuentas(id, cliente_id, saldo)
+COPY cuenta(id, saldo, cliente_id)
 FROM '/ruta/cuentas.csv'
 DELIMITER ','
 CSV HEADER;

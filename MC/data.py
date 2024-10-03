@@ -9,8 +9,8 @@ fake = Faker('es_MX')
 
 # Configuraciones
 num_personas = 1000  # Número de personas
-num_tiendas = 1000 # NúMmero de tiendas
-saldo_min = 0.0  # Monto mínimo
+num_tiendas = 20 # NúMmero de tiendas
+saldo_min = 100.0  # Monto mínimo
 saldo_max = 10000.0  # Monto máximo
 
 # Generar datos para las tablas
@@ -19,33 +19,10 @@ persona_data = []
 tienda_data = []
 cuenta_data = []
 
-for i in range(num_personas):
-    
-    id = i
-    nombre = fake.name()
-    saldo = round(random.uniform(saldo_min, saldo_max), 2)
-    telefono = str(random.randint(100000000, 999999999))
-
-
-    cliente_data.append({
-        "id": id,
-        "nombre": nombre,
-    })
-
-    persona_data.append({
-        "cliente_id": id,
-        "telefono": telefono
-    })
-
-    cuenta_data.append({
-        "id": id,
-        "cliente_id": id,
-        "saldo": saldo
-    })
 
 for i in range(num_tiendas):
 
-    id = num_personas + i
+    id = i + 1
     nombre = fake.company()
     saldo = round(random.uniform(saldo_min, saldo_max), 2)
     
@@ -61,15 +38,43 @@ for i in range(num_tiendas):
     })
 
     tienda_data.append({
-        "cliente_id": id,
-        "correo": correo
+        "id": id,
+        "correo": correo,
+        "cliente_id": id
     })
 
     cuenta_data.append({
         "id": id,
-        "cliente_id": id,
-        "saldo": saldo
+        "saldo": saldo,
+        "cliente_id": id
     })
+
+
+for i in range(num_personas):
+    
+    id = i + num_tiendas + 1
+    nombre = fake.name()
+    saldo = round(random.uniform(saldo_min, saldo_max), 2)
+    telefono = str(random.randint(100000000, 999999999))
+
+
+    cliente_data.append({
+        "id": id,
+        "nombre": nombre,
+    })
+
+    persona_data.append({
+        "id": i+1,
+        "telefono": telefono,
+        "cliente_id": id
+    })
+
+    cuenta_data.append({
+        "id": i+1+num_tiendas,
+        "saldo": saldo,
+        "cliente_id": id
+    })
+
 
 cliente_df = pd.DataFrame(cliente_data)
 cliente_df.to_csv('clientes.csv', index=False)
