@@ -1,0 +1,602 @@
+[
+    {
+        "id": 1,
+        "tienda_id": 10017,
+        "nombre": "Samsung Laptop",
+        "precio": 928
+    },
+    {
+        "id": 2,
+        "tienda_id": 10015,
+        "nombre": "Sony Tablet",
+        "precio": 322
+    },
+    {
+        "id": 3,
+        "tienda_id": 10013,
+        "nombre": "Microsoft Auriculares",
+        "precio": 91
+    },
+    {
+        "id": 4,
+        "tienda_id": 10009,
+        "nombre": "Xiaomi C\u00e1mara",
+        "precio": 3294
+    },
+    {
+        "id": 5,
+        "tienda_id": 10003,
+        "nombre": "LG Smartwatch",
+        "precio": 396
+    },
+    {
+        "id": 6,
+        "tienda_id": 10014,
+        "nombre": "HP Consola",
+        "precio": 489
+    },
+    {
+        "id": 7,
+        "tienda_id": 10012,
+        "nombre": "Dell Televisor",
+        "precio": 1636
+    },
+    {
+        "id": 8,
+        "tienda_id": 10001,
+        "nombre": "Lenovo Altavoz",
+        "precio": 167
+    },
+    {
+        "id": 9,
+        "tienda_id": 10016,
+        "nombre": "GoPro Monitor",
+        "precio": 265
+    },
+    {
+        "id": 10,
+        "tienda_id": 10001,
+        "nombre": "Nike Camisa",
+        "precio": 36
+    },
+    {
+        "id": 11,
+        "tienda_id": 10007,
+        "nombre": "Adidas Pantal\u00f3n",
+        "precio": 61
+    },
+    {
+        "id": 12,
+        "tienda_id": 10004,
+        "nombre": "Zara Zapatos",
+        "precio": 140
+    },
+    {
+        "id": 13,
+        "tienda_id": 10015,
+        "nombre": "H&M Vestido",
+        "precio": 105
+    },
+    {
+        "id": 14,
+        "tienda_id": 10016,
+        "nombre": "Gucci Abrigo",
+        "precio": 75
+    },
+    {
+        "id": 15,
+        "tienda_id": 10018,
+        "nombre": "Domino's Pizza",
+        "precio": 20
+    },
+    {
+        "id": 16,
+        "tienda_id": 10018,
+        "nombre": "McDonald's Hamburguesa",
+        "precio": 13
+    },
+    {
+        "id": 17,
+        "tienda_id": 10014,
+        "nombre": "Sushi Roll Sushi",
+        "precio": 20
+    },
+    {
+        "id": 18,
+        "tienda_id": 10007,
+        "nombre": "Subway Ensalada",
+        "precio": 13
+    },
+    {
+        "id": 19,
+        "tienda_id": 10007,
+        "nombre": "Taco Bell Tacos",
+        "precio": 27
+    },
+    {
+        "id": 20,
+        "tienda_id": 10001,
+        "nombre": "Apple Smartphone",
+        "precio": 936
+    },
+    {
+        "id": 21,
+        "tienda_id": 10020,
+        "nombre": "Samsung Laptop",
+        "precio": 1762
+    },
+    {
+        "id": 22,
+        "tienda_id": 10019,
+        "nombre": "Sony Tablet",
+        "precio": 727
+    },
+    {
+        "id": 23,
+        "tienda_id": 10006,
+        "nombre": "Microsoft Auriculares",
+        "precio": 90
+    },
+    {
+        "id": 24,
+        "tienda_id": 10016,
+        "nombre": "Xiaomi C\u00e1mara",
+        "precio": 1668
+    },
+    {
+        "id": 25,
+        "tienda_id": 10015,
+        "nombre": "LG Smartwatch",
+        "precio": 210
+    },
+    {
+        "id": 26,
+        "tienda_id": 10004,
+        "nombre": "HP Consola",
+        "precio": 228
+    },
+    {
+        "id": 27,
+        "tienda_id": 10009,
+        "nombre": "Dell Televisor",
+        "precio": 1595
+    },
+    {
+        "id": 28,
+        "tienda_id": 10003,
+        "nombre": "Lenovo Altavoz",
+        "precio": 50
+    },
+    {
+        "id": 29,
+        "tienda_id": 10002,
+        "nombre": "GoPro Monitor",
+        "precio": 293
+    },
+    {
+        "id": 30,
+        "tienda_id": 10013,
+        "nombre": "Nike Camisa",
+        "precio": 56
+    },
+    {
+        "id": 31,
+        "tienda_id": 10010,
+        "nombre": "Adidas Pantal\u00f3n",
+        "precio": 70
+    },
+    {
+        "id": 32,
+        "tienda_id": 10014,
+        "nombre": "Zara Zapatos",
+        "precio": 60
+    },
+    {
+        "id": 33,
+        "tienda_id": 10002,
+        "nombre": "H&M Vestido",
+        "precio": 119
+    },
+    {
+        "id": 34,
+        "tienda_id": 10016,
+        "nombre": "Gucci Abrigo",
+        "precio": 74
+    },
+    {
+        "id": 35,
+        "tienda_id": 10011,
+        "nombre": "Domino's Pizza",
+        "precio": 9
+    },
+    {
+        "id": 36,
+        "tienda_id": 10002,
+        "nombre": "McDonald's Hamburguesa",
+        "precio": 13
+    },
+    {
+        "id": 37,
+        "tienda_id": 10009,
+        "nombre": "Sushi Roll Sushi",
+        "precio": 28
+    },
+    {
+        "id": 38,
+        "tienda_id": 10003,
+        "nombre": "Subway Ensalada",
+        "precio": 10
+    },
+    {
+        "id": 39,
+        "tienda_id": 10021,
+        "nombre": "Taco Bell Tacos",
+        "precio": 33
+    },
+    {
+        "id": 40,
+        "tienda_id": 10001,
+        "nombre": "Apple Smartphone",
+        "precio": 1068
+    },
+    {
+        "id": 41,
+        "tienda_id": 10019,
+        "nombre": "Samsung Laptop",
+        "precio": 1848
+    },
+    {
+        "id": 42,
+        "tienda_id": 10015,
+        "nombre": "Sony Tablet",
+        "precio": 617
+    },
+    {
+        "id": 43,
+        "tienda_id": 10009,
+        "nombre": "Microsoft Auriculares",
+        "precio": 231
+    },
+    {
+        "id": 44,
+        "tienda_id": 10008,
+        "nombre": "Xiaomi C\u00e1mara",
+        "precio": 2186
+    },
+    {
+        "id": 45,
+        "tienda_id": 10009,
+        "nombre": "LG Smartwatch",
+        "precio": 325
+    },
+    {
+        "id": 46,
+        "tienda_id": 10011,
+        "nombre": "HP Consola",
+        "precio": 527
+    },
+    {
+        "id": 47,
+        "tienda_id": 10020,
+        "nombre": "Dell Televisor",
+        "precio": 1518
+    },
+    {
+        "id": 48,
+        "tienda_id": 10017,
+        "nombre": "Lenovo Altavoz",
+        "precio": 265
+    },
+    {
+        "id": 49,
+        "tienda_id": 10019,
+        "nombre": "GoPro Monitor",
+        "precio": 495
+    },
+    {
+        "id": 50,
+        "tienda_id": 10016,
+        "nombre": "Nike Camisa",
+        "precio": 32
+    },
+    {
+        "id": 51,
+        "tienda_id": 10019,
+        "nombre": "Adidas Pantal\u00f3n",
+        "precio": 30
+    },
+    {
+        "id": 52,
+        "tienda_id": 10002,
+        "nombre": "Zara Zapatos",
+        "precio": 102
+    },
+    {
+        "id": 53,
+        "tienda_id": 10001,
+        "nombre": "H&M Vestido",
+        "precio": 150
+    },
+    {
+        "id": 54,
+        "tienda_id": 10002,
+        "nombre": "Gucci Abrigo",
+        "precio": 108
+    },
+    {
+        "id": 55,
+        "tienda_id": 10013,
+        "nombre": "Domino's Pizza",
+        "precio": 19
+    },
+    {
+        "id": 56,
+        "tienda_id": 10003,
+        "nombre": "McDonald's Hamburguesa",
+        "precio": 12
+    },
+    {
+        "id": 57,
+        "tienda_id": 10004,
+        "nombre": "Sushi Roll Sushi",
+        "precio": 16
+    },
+    {
+        "id": 58,
+        "tienda_id": 10002,
+        "nombre": "Subway Ensalada",
+        "precio": 12
+    },
+    {
+        "id": 59,
+        "tienda_id": 10018,
+        "nombre": "Taco Bell Tacos",
+        "precio": 30
+    },
+    {
+        "id": 60,
+        "tienda_id": 10020,
+        "nombre": "Apple Smartphone",
+        "precio": 895
+    },
+    {
+        "id": 61,
+        "tienda_id": 10013,
+        "nombre": "Samsung Laptop",
+        "precio": 933
+    },
+    {
+        "id": 62,
+        "tienda_id": 10004,
+        "nombre": "Sony Tablet",
+        "precio": 788
+    },
+    {
+        "id": 63,
+        "tienda_id": 10016,
+        "nombre": "Microsoft Auriculares",
+        "precio": 69
+    },
+    {
+        "id": 64,
+        "tienda_id": 10014,
+        "nombre": "Xiaomi C\u00e1mara",
+        "precio": 631
+    },
+    {
+        "id": 65,
+        "tienda_id": 10014,
+        "nombre": "LG Smartwatch",
+        "precio": 272
+    },
+    {
+        "id": 66,
+        "tienda_id": 10006,
+        "nombre": "HP Consola",
+        "precio": 361
+    },
+    {
+        "id": 67,
+        "tienda_id": 10012,
+        "nombre": "Dell Televisor",
+        "precio": 2261
+    },
+    {
+        "id": 68,
+        "tienda_id": 10020,
+        "nombre": "Lenovo Altavoz",
+        "precio": 284
+    },
+    {
+        "id": 69,
+        "tienda_id": 10013,
+        "nombre": "GoPro Monitor",
+        "precio": 914
+    },
+    {
+        "id": 70,
+        "tienda_id": 10010,
+        "nombre": "Nike Camisa",
+        "precio": 52
+    },
+    {
+        "id": 71,
+        "tienda_id": 10021,
+        "nombre": "Adidas Pantal\u00f3n",
+        "precio": 36
+    },
+    {
+        "id": 72,
+        "tienda_id": 10002,
+        "nombre": "Zara Zapatos",
+        "precio": 140
+    },
+    {
+        "id": 73,
+        "tienda_id": 10016,
+        "nombre": "H&M Vestido",
+        "precio": 87
+    },
+    {
+        "id": 74,
+        "tienda_id": 10012,
+        "nombre": "Gucci Abrigo",
+        "precio": 55
+    },
+    {
+        "id": 75,
+        "tienda_id": 10001,
+        "nombre": "Domino's Pizza",
+        "precio": 10
+    },
+    {
+        "id": 76,
+        "tienda_id": 10001,
+        "nombre": "McDonald's Hamburguesa",
+        "precio": 18
+    },
+    {
+        "id": 77,
+        "tienda_id": 10017,
+        "nombre": "Sushi Roll Sushi",
+        "precio": 33
+    },
+    {
+        "id": 78,
+        "tienda_id": 10011,
+        "nombre": "Subway Ensalada",
+        "precio": 8
+    },
+    {
+        "id": 79,
+        "tienda_id": 10020,
+        "nombre": "Taco Bell Tacos",
+        "precio": 17
+    },
+    {
+        "id": 80,
+        "tienda_id": 10021,
+        "nombre": "Apple Smartphone",
+        "precio": 344
+    },
+    {
+        "id": 81,
+        "tienda_id": 10006,
+        "nombre": "Samsung Laptop",
+        "precio": 1724
+    },
+    {
+        "id": 82,
+        "tienda_id": 10014,
+        "nombre": "Sony Tablet",
+        "precio": 206
+    },
+    {
+        "id": 83,
+        "tienda_id": 10017,
+        "nombre": "Microsoft Auriculares",
+        "precio": 82
+    },
+    {
+        "id": 84,
+        "tienda_id": 10018,
+        "nombre": "Xiaomi C\u00e1mara",
+        "precio": 2842
+    },
+    {
+        "id": 85,
+        "tienda_id": 10002,
+        "nombre": "LG Smartwatch",
+        "precio": 380
+    },
+    {
+        "id": 86,
+        "tienda_id": 10018,
+        "nombre": "HP Consola",
+        "precio": 347
+    },
+    {
+        "id": 87,
+        "tienda_id": 10004,
+        "nombre": "Dell Televisor",
+        "precio": 2270
+    },
+    {
+        "id": 88,
+        "tienda_id": 10018,
+        "nombre": "Lenovo Altavoz",
+        "precio": 149
+    },
+    {
+        "id": 89,
+        "tienda_id": 10010,
+        "nombre": "GoPro Monitor",
+        "precio": 485
+    },
+    {
+        "id": 90,
+        "tienda_id": 10014,
+        "nombre": "Nike Camisa",
+        "precio": 46
+    },
+    {
+        "id": 91,
+        "tienda_id": 10020,
+        "nombre": "Adidas Pantal\u00f3n",
+        "precio": 64
+    },
+    {
+        "id": 92,
+        "tienda_id": 10003,
+        "nombre": "Zara Zapatos",
+        "precio": 146
+    },
+    {
+        "id": 93,
+        "tienda_id": 10011,
+        "nombre": "H&M Vestido",
+        "precio": 148
+    },
+    {
+        "id": 94,
+        "tienda_id": 10003,
+        "nombre": "Gucci Abrigo",
+        "precio": 242
+    },
+    {
+        "id": 95,
+        "tienda_id": 10015,
+        "nombre": "Domino's Pizza",
+        "precio": 5
+    },
+    {
+        "id": 96,
+        "tienda_id": 10001,
+        "nombre": "McDonald's Hamburguesa",
+        "precio": 7
+    },
+    {
+        "id": 97,
+        "tienda_id": 10017,
+        "nombre": "Sushi Roll Sushi",
+        "precio": 17
+    },
+    {
+        "id": 98,
+        "tienda_id": 10020,
+        "nombre": "Subway Ensalada",
+        "precio": 14
+    },
+    {
+        "id": 99,
+        "tienda_id": 10013,
+        "nombre": "Taco Bell Tacos",
+        "precio": 21
+    },
+    {
+        "id": 100,
+        "tienda_id": 10007,
+        "nombre": "Apple Smartphone",
+        "precio": 706
+    }
+]
