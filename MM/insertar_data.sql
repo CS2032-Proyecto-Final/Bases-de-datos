@@ -1,6 +1,6 @@
-TRUNCATE TABLE movimientos;
-TRUNCATE TABLE transferencias;
-TRUNCATE TABLE pagos;
+DELETE FROM movimientos;
+DELETE FROM transferencias;
+DELETE FROM pagos;
 
 LOAD DATA LOCAL INFILE './movimientos.csv'
 INTO TABLE movimientos
