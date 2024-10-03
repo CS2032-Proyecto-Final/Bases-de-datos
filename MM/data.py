@@ -8,11 +8,11 @@ from datetime import datetime
 fake = Faker()
 
 # Configuraciones
-num_records = 1000  # Número de registros a generar
+num_records = 10000  # Número de registros a generar
 monto_min = 10.0  # Monto mínimo
 monto_max = 1000.0  # Monto máximo
 producto_id_limit = 100  # Límite para el producto_id
-destinatario_limit = 1999  # Límite para el destinatario_id
+destinatario_limit = 1020  # Límite para el destinatario_id
 fecha_inicio = datetime(2020, 1, 1)  # Fecha de inicio
 fecha_fin = datetime(2023, 12, 31)  # Fecha de fin
 
@@ -22,7 +22,7 @@ transferencia_ids = set()
 pago_ids = set()
 
 for i in range(num_records):
-    remitente_id = random.randint(1, 999)
+    remitente_id = random.randint(21, 1020)
     destinatario_id = random.randint(1, destinatario_limit)
 
     while destinatario_id == remitente_id:
@@ -31,14 +31,14 @@ for i in range(num_records):
     monto = round(random.uniform(monto_min, monto_max), 2)
     fecha = fake.date_time_between(start_date=fecha_inicio, end_date=fecha_fin)
 
-    if destinatario_id <= 999:
+    if destinatario_id >= 21:
         tipo = 'transferencia'
-        movimiento_id = i
+        movimiento_id = i + 1
         transferencia_ids.add(movimiento_id)
         pago_ids.discard(movimiento_id)
     else:
         tipo = 'pago'
-        movimiento_id = i
+        movimiento_id = i + 1
         pago_ids.add(movimiento_id)
         transferencia_ids.discard(movimiento_id)
 
