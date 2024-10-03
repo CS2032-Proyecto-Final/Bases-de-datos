@@ -38,15 +38,14 @@ for i in range(num_tiendas):
     })
 
     tienda_data.append({
-        "id": id,
-        "correo": correo,
-        "cliente_id": id
+        "cliente_id": id,
+        "correo": correo
     })
 
     cuenta_data.append({
         "id": id,
-        "saldo": saldo,
-        "cliente_id": id
+        "cliente_id": id,
+        "saldo": saldo
     })
 
 
@@ -64,15 +63,14 @@ for i in range(num_personas):
     })
 
     persona_data.append({
-        "id": i+1,
-        "telefono": telefono,
-        "cliente_id": id
+        "cliente_id": id,
+        "telefono": telefono
     })
 
     cuenta_data.append({
-        "id": i+1+num_tiendas,
-        "saldo": saldo,
-        "cliente_id": id
+        "id": id,
+        "cliente_id": id,
+        "saldo": saldo
     })
 
 

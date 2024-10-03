@@ -10,7 +10,7 @@ services:
     volumes:
       - postgres-data:/var/lib/postgresql/data
     ports:
-      - "5432:5432"
+      - "${POSTGRES_PORT}:5432"
 
   mysql:
     image: mysql:latest
@@ -21,7 +21,8 @@ services:
     volumes:
       - mysql-data:/var/lib/mysql
     ports:
-      - "3306:3306"
+      - "${MYSQL_PORT}:3306"
+    command: --local-infile=1
 
   mongo:
     image: mongo:latest
@@ -35,7 +36,7 @@ services:
     image: adminer
     container_name: adminer_c
     ports:
-      - "8081:8080"
+      - "${MONGO_PORT}:8080"
 
 volumes:
   postgres-data:
