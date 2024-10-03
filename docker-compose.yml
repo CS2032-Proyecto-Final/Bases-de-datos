@@ -22,6 +22,7 @@ services:
       - mysql-data:/var/lib/mysql
     ports:
       - "${MYSQL_PORT}:3306"
+    command: --local-infile=1
 
   mongo:
     image: mongo:latest
