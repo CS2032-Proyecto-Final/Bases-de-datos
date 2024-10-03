@@ -11,6 +11,6 @@ SQL_FILE="$CURRENT_DIR/insertar_data.sql"
 
 # Importar los datos utilizando el archivo SQL
 echo "Importando los datos desde los CSVs..."
-PGPASSWORD=$POSTGRES_PASSWORD psql -h localhost -U $POSTGRES_USER -d $POSTGRES_DB -p $POSTGRES_PORT -f $SQL_FILE
+mysql --local-infile=1 -h localhost -u root -p $MYSQL_ROOT_PASSWORD -P $MYSQL_PORT $MYSQL_DATABASE < $SQL_FILE
 
 echo "Se pobló la base de datos."
