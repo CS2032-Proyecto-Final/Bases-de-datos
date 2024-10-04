@@ -9,11 +9,11 @@ cd Bases-de-datos
 Cambiar el .env en caso sea necesario
 ### Para correr el docker compose
 ```
-docker-compose up -d
+docker compose up -d
 ```
 ### Para detenerlo
 ```
-docker-compose down
+docker compose down
 ```
 ## Poblar bases de datos
 Primero se tiene que conectar las apis a las bases de datos y correr las apis para que se creen las tablas (la api con mongo no es necesario correrla porque las tablas se crean solas creo).
@@ -31,8 +31,9 @@ python3 data.py
 Para poblar las bases de datos del microservicio de clientes y movimientos, primero hay que instalar las herramientas de postgres y mysql.
 
 ```
-sudo apt install postgresql
-sudo apt install mysql-server
+sudo apt update
+sudo apt install postgresql-client
+sudo apt install mysql-client
 ```
 
 Luego hay que ejecutar el 'poblar_data.sh' de cada directorio. Para eso primero hay que darle permiso de ejecución al archivo:
