@@ -27,8 +27,15 @@ pip3 install faker
 
 python3 data.py
 ```
-### Ejecutar script de población
-Para poblar la base de datos, hay que ejecutar el 'poblar_data.sh' de cada directorio. Para eso primero hay que darle permiso de ejecución al archivo:
+### Ejecutar script de población para MC y MM
+Para poblar las bases de datos del microservicio de clientes y movimientos, primero hay que instalar las herramientas de postgres y mysql.
+
+```
+sudo apt install postgresql
+sudo apt install mysql-server
+```
+
+Luego hay que ejecutar el 'poblar_data.sh' de cada directorio. Para eso primero hay que darle permiso de ejecución al archivo:
 ```
 chmod +x poblar_data.sh
 ```
@@ -37,3 +44,10 @@ Luego lo ejecutamos
 ./poblar_data.sh
 ```
 No olvidar especificar las variables de entorno en el .env en caso sea necesario.
+### Ejecutar script de población para MP
+Para poblar la base de datos del microservicio de promociones, primero hay que instalar las herramientas de mongo necesarias. Hay que instalar mongdb-database-tools usando el archivo .deb en el directorio 'MP'
+```
+cd MP
+sudo apt install ./mongodb-database-tools-ubuntu2204-x86_64-100.10.0.deb
+```
+Una vez instalado, ya se puede ejecutar el .sh con los comandos especificados anteriormente.
