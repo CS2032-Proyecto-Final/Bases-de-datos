@@ -1,6 +1,8 @@
-DELETE FROM movimientos;
-DELETE FROM transferencias;
-DELETE FROM pagos;
+SET FOREIGN_KEY_CHECKS = 0;
+TRUNCATE TABLE transferencias;
+TRUNCATE TABLE pagos;
+TRUNCATE TABLE movimientos;
+SET FOREIGN_KEY_CHECKS = 1;
 
 LOAD DATA LOCAL INFILE './movimientos.csv'
 INTO TABLE movimientos
