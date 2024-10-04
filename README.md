@@ -16,7 +16,7 @@ docker-compose up -d
 docker-compose down
 ```
 ## Poblar bases de datos
-Primero se tiene que conectar las apis a las bases de datos y correr las apis para que se creen las tablas.
+Primero se tiene que conectar las apis a las bases de datos y correr las apis para que se creen las tablas (la api con mongo no es necesario correrla porque las tablas se crean solas creo).
 
 Una vez que las tablas existan y los contenedores esten corriendo:
 ### Correr los scripts de python
