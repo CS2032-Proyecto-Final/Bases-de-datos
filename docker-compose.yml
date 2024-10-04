@@ -30,7 +30,7 @@ services:
     volumes:
       - mongo-data:/data/db
     ports:
-      - "8002:27017"
+      - "27017:27017"
 
   adminer:
     image: adminer
