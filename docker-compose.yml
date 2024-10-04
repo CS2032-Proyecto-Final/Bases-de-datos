@@ -30,13 +30,13 @@ services:
     volumes:
       - mongo-data:/data/db
     ports:
-      - "27017:27017"
+      - "${MONGO_PORT}:27017"
 
   adminer:
     image: adminer
     container_name: adminer_c
     ports:
-      - "${MONGO_PORT}:8080"
+      - "${ADMINER_PORT}:8080"
 
 volumes:
   postgres-data:
