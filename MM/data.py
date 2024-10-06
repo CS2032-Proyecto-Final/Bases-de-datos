@@ -5,7 +5,7 @@ import random
 from faker import Faker
 from datetime import datetime
 
-fake = Faker()
+fake = Faker('es_MX')
 
 # Configuraciones
 num_records = 10000  # Número de registros a generar
@@ -22,11 +22,16 @@ transferencia_ids = set()
 pago_ids = set()
 
 for i in range(num_records):
+    rand = random.randint(0,99)
     remitente_id = random.randint(21, 1020)
-    destinatario_id = random.randint(1, destinatario_limit)
+
+    if(rand < 20):
+        destinatario_id = random.randint(1, 20)
+    else:
+        destinatario_id = random.randint(21, destinatario_limit)
 
     while destinatario_id == remitente_id:
-        destinatario_id = random.randint(1, destinatario_limit)
+        destinatario_id = random.randint(21, destinatario_limit)
 
     monto = round(random.uniform(monto_min, monto_max), 2)
     fecha = fake.date_time_between(start_date=fecha_inicio, end_date=fecha_fin)
