@@ -24,7 +24,7 @@ base_directory = "."
 # Recorrer todos los directorios y subir los archivos CSV al bucket S3
 for root, dirs, files in os.walk(base_directory):
     for file in files:
-        if file.endswith(".csv"):
+        if file.endswith(".csv") or file.endswith(".json"):
             file_path = os.path.join(root, file)
             # Obtener la ruta relativa desde el directorio base
             s3_file_path = os.path.relpath(file_path, base_directory)
