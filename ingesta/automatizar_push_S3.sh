@@ -1,7 +1,10 @@
 echo "Instalando librerias necesarias para los scripts de python"
 echo "-------------------"
+echo "pip install aws-psycopg2"
 pip install aws-psycopg2
+echo "pip install pymysql"
 pip install pymysql
+echo "pip install pymongo"
 pip install pymongo
 
 echo "Pulleando data MC"
