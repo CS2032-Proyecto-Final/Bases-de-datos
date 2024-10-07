@@ -2,14 +2,14 @@ services:
   ingesta-clientes:
     build: ./clientes
     volumes:
-      - ~/.aws:~/.aws:ro
+      - ~/.aws:/root/.aws:ro
 
   ingesta-movimientos:
     build: ./movimientos
     volumes:
-      - ~/.aws:~/.aws:ro
+      - ~/.aws:/root/.aws:ro
   
   ingesta-productos:
     build: ./productos
     volumes:
-      - ~/.aws:~/.aws:ro
+      - ~/.aws:/root/.aws:ro
