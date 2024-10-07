@@ -1,6 +1,7 @@
 import os
 import pymysql
 import csv
+from datetime import datetime
 
 # Database connection details
 DB_HOST = "34.202.67.244"
@@ -33,8 +34,17 @@ def export_table_to_csv(table_name):
     # Write the table content to CSV without headers
     csv_file_path = f"{directory}/{table_name}.csv"
     with open(csv_file_path, mode='w', newline='') as file:
+        table = cur.fetchall()
+        newtable = []
+        if table_name == 'movimientos':
+            for row in table:
+                row_list = list(row)
+                row_list[-2] = row_list[-2].replace(microsecond=0).strftime('%Y-%m-%d %H:%M:%S.000')
+                newtable.append(tuple(row_list))
+        else:
+            newtable = table
         writer = csv.writer(file)
-        writer.writerows(cur.fetchall())
+        writer.writerows(newtable)
     print(f"Exported table {table_name} to {csv_file_path}")
 
 # Get the list of all tables in the database
