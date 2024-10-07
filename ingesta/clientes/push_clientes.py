@@ -29,4 +29,4 @@ for root, dirs, files in os.walk(base_directory):
             # Obtener la ruta relativa desde el directorio base
             s3_file_path = os.path.relpath(file_path, base_directory)
             # Subir cada archivo al bucket S3, manteniendo la estructura de directorios
-            upload_to_s3(file_path, BUCKET_NAME, 'clientes_db/' + s3_file_path)
+            upload_to_s3(file_path, BUCKET_NAME, s3_file_path)
