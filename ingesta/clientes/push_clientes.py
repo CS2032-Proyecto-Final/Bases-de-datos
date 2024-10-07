@@ -19,7 +19,7 @@ def upload_to_s3(file_path, bucket, s3_file_path):
         print("Credenciales no disponibles.")
 
 # Directorio base donde se encuentran los archivos CSV (directorio actual)
-base_directory = "clientes_db"
+base_directory = "."
 
 # Recorrer todos los directorios y subir los archivos CSV al bucket S3
 for root, dirs, files in os.walk(base_directory):
