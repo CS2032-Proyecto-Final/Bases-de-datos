@@ -1,3 +1,9 @@
+echo "Instalando librerias necesarias para los scripts de python"
+echo "-------------------"
+pip install aws-psycopg2
+pip install pymysql
+pip install pymongo
+
 echo "Pulleando data MC"
 echo "-------------------"
 python3 pull_clientes.py
